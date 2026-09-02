@@ -1,0 +1,764 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.10.18">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>Data Management Plan – Marine Macrogenomics Network</title>
+<style>
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap-89bf13ec4319bff50ce537e56bf4cb29.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+
+
+<link rel="stylesheet" href="styles.css">
+</head>
+
+<body class="nav-fixed quarto-light">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a href="./index.html" class="navbar-brand navbar-brand-logo">
+    <img src="./img/MacroMar_screen.png" alt="" class="navbar-logo light-content">
+    <img src="./img/MacroMar_screen.png" alt="" class="navbar-logo dark-content">
+    </a>
+    <a class="navbar-brand" href="./index.html">
+    <span class="navbar-title">Marine Macrogenomics Network</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="./index.html"> 
+<span class="menu-text">Home</span></a>
+  </li>  
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-about" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">About</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-about">    
+        <li>
+    <a class="dropdown-item" href="./about.html">
+ <span class="dropdown-text">About MacroMar</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./PIs.html">
+ <span class="dropdown-text">Principal Investigators</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-membership" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Membership</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-membership">    
+        <li>
+    <a class="dropdown-item" href="./membership.html">
+ <span class="dropdown-text">How to join</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./SoC.html">
+ <span class="dropdown-text">Statement of collaboration and code of conduct</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-data" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Data</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-data">    
+        <li>
+    <a class="dropdown-item" href="./SubmitData.html">
+ <span class="dropdown-text">Submit data</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./DMP.html">
+ <span class="dropdown-text">Data Management Plan</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-activities" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Activities</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-activities">    
+        <li>
+    <a class="dropdown-item" href="./Funding.html">
+ <span class="dropdown-text">Funding opportunities</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./WorkingGroups.html">
+ <span class="dropdown-text">Working groups</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./Workshops.html">
+ <span class="dropdown-text">Upcoming Workshops</span></a>
+  </li>  
+    </ul>
+  </li>
+</ul>
+          </div> <!-- /navcollapse -->
+            <div class="quarto-navbar-tools">
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#orcid-ids-for-senior-personnel" id="toc-orcid-ids-for-senior-personnel" class="nav-link active" data-scroll-target="#orcid-ids-for-senior-personnel">ORCID IDs for senior personnel</a></li>
+  <li><a href="#description-of-expected-research-products" id="toc-description-of-expected-research-products" class="nav-link" data-scroll-target="#description-of-expected-research-products">Description of Expected Research Products</a></li>
+  <li><a href="#metadata-formats-and-standards" id="toc-metadata-formats-and-standards" class="nav-link" data-scroll-target="#metadata-formats-and-standards">Metadata Formats and Standards</a></li>
+  <li><a href="#policies-for-access-and-sharing" id="toc-policies-for-access-and-sharing" class="nav-link" data-scroll-target="#policies-for-access-and-sharing">Policies for Access and Sharing</a>
+  <ul class="collapse">
+  <li><a href="#authorship-policy" id="toc-authorship-policy" class="nav-link" data-scroll-target="#authorship-policy">Authorship Policy</a></li>
+  </ul></li>
+  <li><a href="#policies-for-re-use-and-re-distribution" id="toc-policies-for-re-use-and-re-distribution" class="nav-link" data-scroll-target="#policies-for-re-use-and-re-distribution">Policies for Re-Use and Re-Distribution</a></li>
+  <li><a href="#plans-for-archiving-data-storage-and-preservation" id="toc-plans-for-archiving-data-storage-and-preservation" class="nav-link" data-scroll-target="#plans-for-archiving-data-storage-and-preservation">Plans for Archiving, Data Storage, and Preservation</a></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Data Management Plan</h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<section id="orcid-ids-for-senior-personnel" class="level1">
+<h1>ORCID IDs for senior personnel</h1>
+<ul>
+<li>Katie E. Lotterhos (Northeastern University): 0000-0001-7529-2771</li>
+<li>Sam Bogan (Skidmore College) 0000-0003-2244-5169</li>
+<li>Katherine Silliman (NOAA): 0000-0001-5964-3965</li>
+<li>Rachel Toczydlowski (USDA Forest Service): 0000-0002-8141-2036</li>
+<li>Serena Caplins (Northeastern University): 0000-0003-1311-6697</li>
+<li>Alexa Fredston (UC Santa Cruz): 0000-0002-5449-7054</li>
+<li>Libby Liggins (University of Auckland, New Zealand): 0000-0003-1143-2346</li>
+<li>Sam Yeaman (University of Calgary, Canada) 0000-0002-1706-8699</li>
+<li>Pierre De Wit (University of Gothenburg, Sweden): 0000-0003-4709-3438</li>
+</ul>
+</section>
+<section id="description-of-expected-research-products" class="level1">
+<h1>Description of Expected Research Products</h1>
+<p>This project will not generate new research data, but may help participants organize existing data and samples. Other types of new data generated during this project include curriculum materials, computer code and pipelines, compute containers, app and data collection templates, and survey data.</p>
+<ul>
+<li><em>Existing Samples</em> - Existing samples may include tissue samples, water samples, or whole organisms. Participants will be encouraged to deposit existing samples in a curated sample collection.</li>
+<li><em>Existing genomic datasets</em> - Existing genomic datasets include raw reads, derived genomic data (e.g.&nbsp;BAM files or VCF files), or other ascertainment methods (e.g., SNP array). Participants will be encouraged to deposit existing sequence data in International Nucleotide Sequence Database Collaboration (e.g., NCBI) or other genomic data repositories that adhere to FAIR and CARE so that datasets are interoperable (e.g.&nbsp;Aotearoa Genomic Data Repository).</li>
+<li><em>Existing seascape genomic metadata</em> - Existing seascape genomic metadata may include spatiotemporal context, oceanographic and environmental data, taxon information, and sample information. Participants will be encouraged to include contextual metadata with physical sample depositions and genomic metadata in GEOME.</li>
+<li><em>Curriculum materials</em> - This project will develop new curriculum materials, which includes videos and written tutorials published on the MarineOmics webpage.</li>
+<li><em>Compute containers, code, and pipelines</em> - This project will develop new or organize existing code and pipelines with compute containers. Code will be annotated to promote interpretation and detailed headers will be used to explain the purpose and functions of the scripts, input variables needed, etc.</li>
+<li><em>App and Data Collection Templates</em> - This project will develop new or organize existing data collection templates, including spreadsheet templates and AppSheet app templates.</li>
+<li><em>Survey data</em> - Survey data includes confidential or anonymous participant responses to IRB-approved questionnaires.</li>
+</ul>
+</section>
+<section id="metadata-formats-and-standards" class="level1">
+<h1>Metadata Formats and Standards</h1>
+<p>This project will develop a framework and foundation for the adoption of international data standards for seascape genomics (meta)data, including:</p>
+<ul>
+<li>Darwin Core standards are used to describe the spatiotemporal context for biodiversity data. This standard is used by the Global Biodiversity Information Facility (GBIF), the Ocean Biodiversity Information System (OBIS), GEOME, and the Global Genome Biodiversity Network.</li>
+<li>Metadata standards and vocabularies for the minimum information about any (x) sequence (MIxS) standards are integrated with Darwin Core and have been adopted by INSDC and other genomic data repositories to describe the what, where, when, how, and by whom a genetic sample was collected. Darwin Core and MIxS also have integrated extensions, such as the DNA-derived data extension, which is used to store information related to DNA from samples (an organism or the environment). It can be used to describe the environment the sample came from, how the tissue was collected, parasites or diseases in the sample, DNA extraction and sequencing, and genome attributes of the sample.</li>
+<li>BioSample Attributes is a set of terms used to describe biological samples from specimens (such as tissue, blood, urine, etc.) that are sequenced or used in experimental assays. Popular sequencing repositories such as GenBank and the Sequence Read Archive use these attributes to describe the type of material that was sequenced.</li>
+<li>The Global Genome Biodiversity Network (GGBN) Data Standard is a set of terms and controlled vocabularies that builds on Darwin Core and MIxS to describe genomic samples in biobanks. It includes terms for describing cloning, amplification, gel images, storage buffer, collection permits, and copyrights.</li>
+<li>Docker containers contain metadata in standard json files that describe the name, description, and version of the software.</li>
+<li>Minimum Information for an Omic Protocol (MIOP) standards describe the what, when, where, and how of sample processing and have been adopted by Better Biomolecular Ocean Practices (BeBOP) protocol templates.</li>
+<li>The Internet of Samples (iSamples) has vocabularies to record metadata about material samples, such as the material sample type, material type, and sampled feature type, and also persistently link them to other samples and derived digital content, including images, data, and publications.</li>
+<li>The Marine Metadata Ontology Registry and Repository hosts a thesaurus of standardized vocabularies related to the marine environment.</li>
+<li>The Natural Environment Research Council Vocabulary Server (NVS) provides controlled vocabularies for oceanographic and similar data. It includes a broad array or terms for physical data (such as climate or forecasts) and biological data (such as abundance of biological entities per unit area or unit volume).</li>
+</ul>
+</section>
+<section id="policies-for-access-and-sharing" class="level1">
+<h1>Policies for Access and Sharing</h1>
+<p>Curriculum materials, compute containers, and data templates will be made publicly available as described in the proposal. We will maintain the privacy and confidentiality of participant’s survey data following IRB-approved protocols. Survey data will be aggregated to protect participants from pseudo-anonymity. For existing data, we will help participants develop data/sample sharing agreements as necessary.</p>
+<p>In most cases, products will be made publicly accessible upon publication or within two years of collection, but we recognized that in some cases, individual datasets may need to be embargoed for a longer period of time. We will develop embargo and data policies for special cases such as endangered species.</p>
+<section id="authorship-policy" class="level2">
+<h2 class="anchored" data-anchor-id="authorship-policy">Authorship Policy</h2>
+<p>For authorship and reporting guidelines we will refer participants to the Vancouver Recommendations: a set of recommendations for best practice and ethical standards in the conduct and reporting of published research. They recommend that all 4 of the following criteria are required for authorship: (i) Substantial contributions to the conception or design of the work; or the acquisition, analysis, or interpretation of data for the work; AND (ii) drafting the work or revising it critically for important intellectual content; AND (iii) final approval of the version to be published; AND (iv) agreement to be accountable for all aspects of the work in ensuring that questions related to the accuracy or integrity of any part of the work are appropriately investigated and resolved. They also recommend that when a large multi-­author group has conducted the work, the group ideally should decide who will be an author before the work is started.</p>
+</section>
+</section>
+<section id="policies-for-re-use-and-re-distribution" class="level1">
+<h1>Policies for Re-Use and Re-Distribution</h1>
+<p>All products generated by this project will be made freely available for research, educational, management, and non-profit purposes in accordance with University/Participating institutional and NSF policies, and in consultation with Indigenous communities who have sovereignty of some data to respect their interests and aspirations for the data. Consistent with normal scientific practices and publication procedures, publication of data shall occur as the project proceeds or after the project ends.</p>
+</section>
+<section id="plans-for-archiving-data-storage-and-preservation" class="level1">
+<h1>Plans for Archiving, Data Storage, and Preservation</h1>
+<p>Our plans for archiving and preservation of existing samples and data will follow the FAIR practices outlined in the table below or the recommendations we develop in this project. We will work with investigators to ensure cross-linking among the various DOIs associated with their data. All the curriculum materials, templates, and compute containers that we develop will be linked to the MarineOmics page, where they will be publicly available. The table below summarizes our current plans for data archival, but these are subject to evolve over the course of the project period as we determine best practices.</p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 4%">
+<col style="width: 16%">
+<col style="width: 78%">
+<col style="width: 0%">
+<col style="width: 0%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Step in data lifecycle</th>
+<th>Current data management practices</th>
+<th>FAIR practices and overview of Open Science plans</th>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Project ID</td>
+<td>Not applicable.</td>
+<td>The foundation project number and grant DOI number will be assigned upon grant approval. We will make sure to cite these numbers in all research products and publications using the following language, “This work was supported by the Gordon and Betty Moore Foundation, GBMF#####, grant DOI.”</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Archive sample metadata</td>
+<td>Published in individual repositories or as supplemental material, but rarely sufficient metadata and often not interoperable or accessible</td>
+<td>Metadata DOI: Deposition in GEOME and linked to GBIF/OBIS global repositories. GEOME mints Globally Unique Identifiers (GUIDs) for projects within a team. A Globally Unique Identifier (GUID) is a 128-bit number used in computing to uniquely identify information, objects, or entities across systems, databases, and networks without a central registration authority. For biological data, we will use Darwin Core, MIxS, and other standards. For environmental/oceanographic data, use standards from the Marine Metadata Ontology Registry and Repository and Natural Environment Research Council Vocabulary Server; Develop guidelines/plans for enhancing interoperability.</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Archive tissue samples</td>
+<td>Samples stored in freezers of individual research groups</td>
+<td>Sample DOI: Use Darwin Core, MIxS, and other standards; Deposition in the Ocean Genomic Legacy biorespository and will link to GEOME and other repos. GEOME mints Biodiversity Collection Identifiers (bcid) for samples. BCIDs (Biodiversity Collection Identifiers) are persistent identifiers in ARK (Archival Resource Key) format, using the NAAN (Name Assigning Authority Number) 21547 for genomic and biodiversity data. These identifiers, often structured as ark:/21547/, are used to permanently link, resolve, and cite digital biodiversity samples.</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Archive molecular protocols</td>
+<td>Lab protocols often customized/optimized for specific species, but not published</td>
+<td>Protocol DOI: New standards for describing protocols were recently developed through the UN Decade of Ocean Science for Sustainable Development (Samuel et al.&nbsp;2021). The Minimum Information for an Omic Protocol (MIOP) standards and accompanying Better Biomolecular Ocean Practices (BeBOP) protocol templates have been developed to meet these new standards. Protocols use Minimum Information for an Omic Protocol (MIOP) standards and publicly available with DOI through BeBOP.</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Archive sequence data</td>
+<td>Sequence data uploaded to Sequence Read Archive. No standard practices for derived genetic data (e.g., BAM or VCF files).</td>
+<td>Sequence DOI: Raw reads with associated metadata uploaded to Sequence Read Archive</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Archive code / bioinformatics</td>
+<td>Code published in public git repository; code often not reproducible; no system for bioinformatics information management</td>
+<td>Pipeline/Code DOI and Container DOI: We will build compute containers for all code on GitHub and archive them with Zenodo or DockerHub, which will provide DOIs</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Cross-link all project-related DOIs</td>
+<td>Not practiced</td>
+<td>Develop guidelines/plans to enhance cross-talk among all above DOIs associated with a single dataset</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+  window.document.addEventListener("DOMContentLoaded", function (event) {
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
+    const isCodeAnnotation = (el) => {
+      for (const clz of el.classList) {
+        if (clz.startsWith('code-annotation-')) {                     
+          return true;
+        }
+      }
+      return false;
+    }
+    const onCopySuccess = function(e) {
+      // button target
+      const button = e.trigger;
+      // don't keep focus
+      button.blur();
+      // flash "checked"
+      button.classList.add('code-copy-button-checked');
+      var currentTitle = button.getAttribute("title");
+      button.setAttribute("title", "Copied!");
+      let tooltip;
+      if (window.bootstrap) {
+        button.setAttribute("data-bs-toggle", "tooltip");
+        button.setAttribute("data-bs-placement", "left");
+        button.setAttribute("data-bs-title", "Copied!");
+        tooltip = new bootstrap.Tooltip(button, 
+          { trigger: "manual", 
+            customClass: "code-copy-button-tooltip",
+            offset: [0, -8]});
+        tooltip.show();    
+      }
+      setTimeout(function() {
+        if (tooltip) {
+          tooltip.hide();
+          button.removeAttribute("data-bs-title");
+          button.removeAttribute("data-bs-toggle");
+          button.removeAttribute("data-bs-placement");
+        }
+        button.setAttribute("title", currentTitle);
+        button.classList.remove('code-copy-button-checked');
+      }, 1000);
+      // clear code selection
+      e.clearSelection();
+    }
+    const getTextToCopy = function(trigger) {
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+    const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+      text: getTextToCopy
+    });
+    clipboard.on('success', onCopySuccess);
+    if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+      const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+        text: getTextToCopy,
+        container: window.document.getElementById('quarto-embedded-source-code-modal')
+      });
+      clipboardModal.on('success', onCopySuccess);
+    }
+      var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var mailtoRegex = new RegExp(/^mailto:/);
+        var filterRegex = new RegExp("https:\/\/MacroMarNet\.github\.io\/MacroMar\/");
+      var isInternal = (href) => {
+          return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+      }
+      // Inspect non-navigation links and adorn them if external
+     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      for (var i=0; i<links.length; i++) {
+        const link = links[i];
+        if (!isInternal(link.href)) {
+          // undo the damage that might have been done by quarto-nav.js in the case of
+          // links that we want to consider external
+          if (link.dataset.originalHref !== undefined) {
+            link.href = link.dataset.originalHref;
+          }
+        }
+      }
+    function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+      const config = {
+        allowHTML: true,
+        maxWidth: 500,
+        delay: 100,
+        arrow: false,
+        appendTo: function(el) {
+            return el.parentElement;
+        },
+        interactive: true,
+        interactiveBorder: 10,
+        theme: 'quarto',
+        placement: 'bottom-start',
+      };
+      if (contentFn) {
+        config.content = contentFn;
+      }
+      if (onTriggerFn) {
+        config.onTrigger = onTriggerFn;
+      }
+      if (onUntriggerFn) {
+        config.onUntrigger = onUntriggerFn;
+      }
+      window.tippy(el, config); 
+    }
+    const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+    for (var i=0; i<noterefs.length; i++) {
+      const ref = noterefs[i];
+      tippyHover(ref, function() {
+        // use id or data attribute instead here
+        let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+        try { href = new URL(href).hash; } catch {}
+        const id = href.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note) {
+          return note.innerHTML;
+        } else {
+          return "";
+        }
+      });
+    }
+    const xrefs = window.document.querySelectorAll('a.quarto-xref');
+    const processXRef = (id, note) => {
+      // Strip column container classes
+      const stripColumnClz = (el) => {
+        el.classList.remove("page-full", "page-columns");
+        if (el.children) {
+          for (const child of el.children) {
+            stripColumnClz(child);
+          }
+        }
+      }
+      stripColumnClz(note)
+      if (id === null || id.startsWith('sec-')) {
+        // Special case sections, only their first couple elements
+        const container = document.createElement("div");
+        if (note.children && note.children.length > 2) {
+          container.appendChild(note.children[0].cloneNode(true));
+          for (let i = 1; i < note.children.length; i++) {
+            const child = note.children[i];
+            if (child.tagName === "P" && child.innerText === "") {
+              continue;
+            } else {
+              container.appendChild(child.cloneNode(true));
+              break;
+            }
+          }
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(container);
+          }
+          return container.innerHTML
+        } else {
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(note);
+          }
+          return note.innerHTML;
+        }
+      } else {
+        // Remove any anchor links if they are present
+        const anchorLink = note.querySelector('a.anchorjs-link');
+        if (anchorLink) {
+          anchorLink.remove();
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        if (note.classList.contains("callout")) {
+          return note.outerHTML;
+        } else {
+          return note.innerHTML;
+        }
+      }
+    }
+    for (var i=0; i<xrefs.length; i++) {
+      const xref = xrefs[i];
+      tippyHover(xref, undefined, function(instance) {
+        instance.disable();
+        let url = xref.getAttribute('href');
+        let hash = undefined; 
+        if (url.startsWith('#')) {
+          hash = url;
+        } else {
+          try { hash = new URL(url).hash; } catch {}
+        }
+        if (hash) {
+          const id = hash.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note !== null) {
+            try {
+              const html = processXRef(id, note.cloneNode(true));
+              instance.setContent(html);
+            } finally {
+              instance.enable();
+              instance.show();
+            }
+          } else {
+            // See if we can fetch this
+            fetch(url.split('#')[0])
+            .then(res => res.text())
+            .then(html => {
+              const parser = new DOMParser();
+              const htmlDoc = parser.parseFromString(html, "text/html");
+              const note = htmlDoc.getElementById(id);
+              if (note !== null) {
+                const html = processXRef(id, note);
+                instance.setContent(html);
+              } 
+            }).finally(() => {
+              instance.enable();
+              instance.show();
+            });
+          }
+        } else {
+          // See if we can fetch a full url (with no hash to target)
+          // This is a special case and we should probably do some content thinning / targeting
+          fetch(url)
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.querySelector('main.content');
+            if (note !== null) {
+              // This should only happen for chapter cross references
+              // (since there is no id in the URL)
+              // remove the first header
+              if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+                note.children[0].remove();
+              }
+              const html = processXRef(null, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      }, function(instance) {
+      });
+    }
+        let selectedAnnoteEl;
+        const selectorForAnnotation = ( cell, annotation) => {
+          let cellAttr = 'data-code-cell="' + cell + '"';
+          let lineAttr = 'data-code-annotation="' +  annotation + '"';
+          const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+          return selector;
+        }
+        const selectCodeLines = (annoteEl) => {
+          const doc = window.document;
+          const targetCell = annoteEl.getAttribute("data-target-cell");
+          const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+          const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+          const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+          const lineIds = lines.map((line) => {
+            return targetCell + "-" + line;
+          })
+          let top = null;
+          let height = null;
+          let parent = null;
+          if (lineIds.length > 0) {
+              //compute the position of the single el (top and bottom and make a div)
+              const el = window.document.getElementById(lineIds[0]);
+              top = el.offsetTop;
+              height = el.offsetHeight;
+              parent = el.parentElement.parentElement;
+            if (lineIds.length > 1) {
+              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+              height = bottom - top;
+            }
+            if (top !== null && height !== null && parent !== null) {
+              // cook up a div (if necessary) and position it 
+              let div = window.document.getElementById("code-annotation-line-highlight");
+              if (div === null) {
+                div = window.document.createElement("div");
+                div.setAttribute("id", "code-annotation-line-highlight");
+                div.style.position = 'absolute';
+                parent.appendChild(div);
+              }
+              div.style.top = top - 2 + "px";
+              div.style.height = height + 4 + "px";
+              div.style.left = 0;
+              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+              if (gutterDiv === null) {
+                gutterDiv = window.document.createElement("div");
+                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+                gutterDiv.style.position = 'absolute';
+                const codeCell = window.document.getElementById(targetCell);
+                const gutter = codeCell.querySelector('.code-annotation-gutter');
+                gutter.appendChild(gutterDiv);
+              }
+              gutterDiv.style.top = top - 2 + "px";
+              gutterDiv.style.height = height + 4 + "px";
+            }
+            selectedAnnoteEl = annoteEl;
+          }
+        };
+        const unselectCodeLines = () => {
+          const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+          elementsIds.forEach((elId) => {
+            const div = window.document.getElementById(elId);
+            if (div) {
+              div.remove();
+            }
+          });
+          selectedAnnoteEl = undefined;
+        };
+          // Handle positioning of the toggle
+      window.addEventListener(
+        "resize",
+        throttle(() => {
+          elRect = undefined;
+          if (selectedAnnoteEl) {
+            selectCodeLines(selectedAnnoteEl);
+          }
+        }, 10)
+      );
+      function throttle(fn, ms) {
+      let throttle = false;
+      let timer;
+        return (...args) => {
+          if(!throttle) { // first call gets through
+              fn.apply(this, args);
+              throttle = true;
+          } else { // all the others get throttled
+              if(timer) clearTimeout(timer); // cancel #2
+              timer = setTimeout(() => {
+                fn.apply(this, args);
+                timer = throttle = false;
+              }, ms);
+          }
+        };
+      }
+        // Attach click handler to the DT
+        const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+        for (const annoteDlNode of annoteDls) {
+          annoteDlNode.addEventListener('click', (event) => {
+            const clickedEl = event.target;
+            if (clickedEl !== selectedAnnoteEl) {
+              unselectCodeLines();
+              const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+              if (activeEl) {
+                activeEl.classList.remove('code-annotation-active');
+              }
+              selectCodeLines(clickedEl);
+              clickedEl.classList.add('code-annotation-active');
+            } else {
+              // Unselect the line
+              unselectCodeLines();
+              clickedEl.classList.remove('code-annotation-active');
+            }
+          });
+        }
+    const findCites = (el) => {
+      const parentEl = el.parentElement;
+      if (parentEl) {
+        const cites = parentEl.dataset.cites;
+        if (cites) {
+          return {
+            el,
+            cites: cites.split(' ')
+          };
+        } else {
+          return findCites(el.parentElement)
+        }
+      } else {
+        return undefined;
+      }
+    };
+    var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+    for (var i=0; i<bibliorefs.length; i++) {
+      const ref = bibliorefs[i];
+      const citeInfo = findCites(ref);
+      if (citeInfo) {
+        tippyHover(citeInfo.el, function() {
+          var popup = window.document.createElement('div');
+          citeInfo.cites.forEach(function(cite) {
+            var citeDiv = window.document.createElement('div');
+            citeDiv.classList.add('hanging-indent');
+            citeDiv.classList.add('csl-entry');
+            var biblioDiv = window.document.getElementById('ref-' + cite);
+            if (biblioDiv) {
+              citeDiv.innerHTML = biblioDiv.innerHTML;
+            }
+            popup.appendChild(citeDiv);
+          });
+          return popup.innerHTML;
+        });
+      }
+    }
+  });
+  </script>
+</div> <!-- /content -->
+
+
+
+
+</body></html>

@@ -1,8 +1,0 @@
----
-title: "Working Groups"
-format: html
----
-
-We are in the process of forming and soliciting working groups.
-
-Check back soon for more information

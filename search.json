@@ -1,0 +1,233 @@
+[
+  {
+    "objectID": "SubmitData.html",
+    "href": "SubmitData.html",
+    "title": "Submit Data",
+    "section": "",
+    "text": "The goal of this project is to make population genomic data and associated metadata FAIR (findable, accessible, interoperable, and reusable). To maintain interoperability, we require all samples to use short-read sequencing technology, the same bioinformatics pipeline, and the same metadata format."
+  },
+  {
+    "objectID": "SubmitData.html#goal",
+    "href": "SubmitData.html#goal",
+    "title": "Submit Data",
+    "section": "",
+    "text": "The goal of this project is to make population genomic data and associated metadata FAIR (findable, accessible, interoperable, and reusable). To maintain interoperability, we require all samples to use short-read sequencing technology, the same bioinformatics pipeline, and the same metadata format."
+  },
+  {
+    "objectID": "SubmitData.html#data-requirements",
+    "href": "SubmitData.html#data-requirements",
+    "title": "Submit Data",
+    "section": "Data requirements",
+    "text": "Data requirements\n\nShort-read whole genome sequencing (Illumina or AVITI)\n\nHigh coverage data preferred 8x minimum coverage\nPool-seq data accepted\nLow-coverage data not accepted\n\nMultiple individuals.\n\nFor high coverage data: We aim to have at least 50 individuals per species, but datasets of ~100 individuals spanning a phenotypic or environmental gradient, or that are representative of the species range or population structure would be more ideal. We will also accept datasets with fewer individuals, such as for rare or endangered species, or hard-to-obtain samples.\nFor pool seq data: We recommend at least 40 individuals and 100x coverage per pool, with at least 20 pools.\nPlease note that we are interested in all species, regardless of whether there is strong population structure or local adaptation.\n\nA reference genome exists\nSufficient metadata for each sample, including the latitude, longitude, depth, and time of sampling.\n\nIdeally, historical environmental data is also available for each sample (one of the goals of this project will be to determine how to summarize this data in a standardized way). Currently we do not have specific requirements for the resolution or minimum time span of historical environmental data, but please be prepared to list sources of relevant environmental data when you submit your samples."
+  },
+  {
+    "objectID": "SubmitData.html#data-submission-workflow",
+    "href": "SubmitData.html#data-submission-workflow",
+    "title": "Submit Data",
+    "section": "Data submission workflow",
+    "text": "Data submission workflow\nWe are in the process of publishing our data submission workflow on MarineOmics, a dynamic website for sharing protocols and best principles for marine genomics research.\nTO DO: UPDATE LINK"
+  },
+  {
+    "objectID": "WorkingGroups.html",
+    "href": "WorkingGroups.html",
+    "title": "Working Groups",
+    "section": "",
+    "text": "We are in the process of forming and soliciting working groups.\nCheck back soon for more information"
+  },
+  {
+    "objectID": "Funding.html",
+    "href": "Funding.html",
+    "title": "Funding opportunities",
+    "section": "",
+    "text": "Over the next three years, we will be giving many awards in the amount of ~$5,000 USD to support short-read sequencing of your samples to our data requirements. We are currently getting quotes from sequencing companies for competitive pricing. Stay tuned for information on how to apply.\nApplications will be scored according to the following rubric:\n\nState of sampling (highest score for samples in hand with extracted DNA)\nMetadata submitted with application (highest score for data submitted in our standardized format)\nSamples representative of: species range, population structure, and/or environmental gradients (highest score for all three)\nReference exists (highest score for publicly available reference)\nTaxonomic/Phylogenetic representation (highest score for phyla underrepresented in MacroMar or RepAdapt)\nAbility to match funds or statement of financial need"
+  },
+  {
+    "objectID": "Funding.html#sequencing-support",
+    "href": "Funding.html#sequencing-support",
+    "title": "Funding opportunities",
+    "section": "",
+    "text": "Over the next three years, we will be giving many awards in the amount of ~$5,000 USD to support short-read sequencing of your samples to our data requirements. We are currently getting quotes from sequencing companies for competitive pricing. Stay tuned for information on how to apply.\nApplications will be scored according to the following rubric:\n\nState of sampling (highest score for samples in hand with extracted DNA)\nMetadata submitted with application (highest score for data submitted in our standardized format)\nSamples representative of: species range, population structure, and/or environmental gradients (highest score for all three)\nReference exists (highest score for publicly available reference)\nTaxonomic/Phylogenetic representation (highest score for phyla underrepresented in MacroMar or RepAdapt)\nAbility to match funds or statement of financial need"
+  },
+  {
+    "objectID": "Funding.html#bioinformatics-support",
+    "href": "Funding.html#bioinformatics-support",
+    "title": "Funding opportunities",
+    "section": "Bioinformatics support",
+    "text": "Bioinformatics support\nWe will be hiring a bioinformatician on the project who can help process your sequences through our pipeline. Stay tuned for information on how to apply for their help."
+  },
+  {
+    "objectID": "Funding.html#stipends-for-data-submission",
+    "href": "Funding.html#stipends-for-data-submission",
+    "title": "Funding opportunities",
+    "section": "Stipends for data submission",
+    "text": "Stipends for data submission\nStipends in the about of $X will be available to members of the network who complete the checklist for their data submission. Stay tuned for information on how to apply."
+  },
+  {
+    "objectID": "Funding.html#stipends-for-marineomics-tutorials",
+    "href": "Funding.html#stipends-for-marineomics-tutorials",
+    "title": "Funding opportunities",
+    "section": "Stipends for MarineOmics Tutorials",
+    "text": "Stipends for MarineOmics Tutorials\nStipends in the amount of $XXX USD (?) per team are available for the development of tutorials on MarineOmics. Examples of tutorials we would be interested in (but not limited to):\n\npopulation genomics of polyploid data\nbench protocols for special cases when kits don’t work (e.g., extraction of DNA from whelks)\nisolation by distance with Type II regression\n\nTutorials do not necessarily need to feature marine species, but should clarify how the tutorial will be useful for scientists working in non-model and marine species. Stay tuned for information on how to apply."
+  },
+  {
+    "objectID": "Funding.html#working-group-support",
+    "href": "Funding.html#working-group-support",
+    "title": "Funding opportunities",
+    "section": "Working group support",
+    "text": "Working group support\nStipends in the amount of $XXX USD are available to support the participation of early career individuals or key stakeholders in working groups.\nCurrent working groups for MacroMar and RepAdapt(?) can be found on this page. If you are interested in joining an existing working group, please contact the group leader.\nStay tuned for for information on how to submit an application to support a working group.\nExamples of working groups we would be interested in (but not limited to):\n\nFurther development of metadata standards for MacroMar\nIndigenous metadata and best practices for the CARE principles\nStandards for marine environmental data and how to summarize variables\nPlankton population genomics\nhow to summarize structure in the ocean"
+  },
+  {
+    "objectID": "Funding.html#travel-support",
+    "href": "Funding.html#travel-support",
+    "title": "Funding opportunities",
+    "section": "Travel support",
+    "text": "Travel support\nStipends are available to support travel to our workshops. Stay tuned for information on how to apply."
+  },
+  {
+    "objectID": "Funding.html#macromar-liasons-and-research-pods",
+    "href": "Funding.html#macromar-liasons-and-research-pods",
+    "title": "Funding opportunities",
+    "section": "MacroMar Liasons(?) and Research Pods",
+    "text": "MacroMar Liasons(?) and Research Pods\nIn the near future, we will accepting applications for MacroMar Liasons. Liasons will receive training in the MacroMar workflow and lead the formation of small research pods (3-6 members) who will work together to bring their data up to FAIR standards. Liasons will receive a stipend."
+  },
+  {
+    "objectID": "Workshops.html",
+    "href": "Workshops.html",
+    "title": "Upcoming Workshops",
+    "section": "",
+    "text": "We are in the process of planning workshops that will take place in 2027. Stay tuned!"
+  },
+  {
+    "objectID": "PIs.html",
+    "href": "PIs.html",
+    "title": "Principal Investigators",
+    "section": "",
+    "text": "Katie E. Lotterhos (Principal Investigator)\nNortheastern University Marine Science Center, USA\nDirector, Center for Marine Ecological Genomics\n\n\n\n\n Sam Bogan\nSkidmore College, USA\nCo-Founder, MarineOmics\n\n\n\n\n\nSerena Caplins\nNortheastern University\nResearch Computing\n\n\n\n\n\n\n\n\nPierre De Wit\nUniversity of Gothenberg, Sweden\nCenter for Marine Evolutionary Biology\n\n\n\n\n\nAlexa Fredston\nUniversity of California, Santa Cruz\nOpen Science Advocate\n\n\n\n\n\nLibby Liggins\nUniversity of Auckland, New Zealand\nGEOME\n\n\n\n\n\n\n\n\nKatherine Silliman\nNational Oceanic and Atmospheric Administration, USA\nCo-Founder, MarineOmics\n\n\n\n\n\nRachel Toczydlowski\nUSDA Forest Service, USA\nGEOME\n\n\n\n\n\nSam Yeaman\nUniversity of Calgary, Canada\nRepAdapt"
+  },
+  {
+    "objectID": "membership.html",
+    "href": "membership.html",
+    "title": "How to join",
+    "section": "",
+    "text": "MacroMar membership application: Click here to join.\n\n\n\nWe will use the listserv to send updates about activities and funding opportunities.\nMacroMar Listserv: Click here to join or manage your subscription."
+  },
+  {
+    "objectID": "membership.html#fill-out-this-form",
+    "href": "membership.html#fill-out-this-form",
+    "title": "How to join",
+    "section": "",
+    "text": "MacroMar membership application: Click here to join."
+  },
+  {
+    "objectID": "membership.html#sign-up-for-the-listserv",
+    "href": "membership.html#sign-up-for-the-listserv",
+    "title": "How to join",
+    "section": "",
+    "text": "We will use the listserv to send updates about activities and funding opportunities.\nMacroMar Listserv: Click here to join or manage your subscription."
+  },
+  {
+    "objectID": "SoC.html",
+    "href": "SoC.html",
+    "title": "Statement of Collaboration and Code of Conduct",
+    "section": "",
+    "text": "The MacroMar Network is dedicated to promoting collaboration, networking, and the exchange of knowledge. We welcome and encourage participation by all individuals, at any career stage, who have a genuine interest in participating in the project. We strive to cultivate a network built on encouragement, acceptance, and mutual respect, thereby engendering a welcoming environment for all. We will further promote inclusion by fostering a focus on belonging in membership, leadership, committees, outreach, public engagement, recruitment, and in all other areas of activity within the network.\nThe goal of our project is to conduct open science to the fullest extent possible, which means that all products will eventually be made publicly available. [Alexa ideas on what to say here]"
+  },
+  {
+    "objectID": "SoC.html#expectations-of-members",
+    "href": "SoC.html#expectations-of-members",
+    "title": "Statement of Collaboration and Code of Conduct",
+    "section": "Expectations of members",
+    "text": "Expectations of members\nMembers of this marine seascape genomics network commit to the highest standards of scientific integrity and environmental stewardship. Members are expected to follow the FAIR and CARE principles, respect the Nagoya Protocol on Access and Benefit-Sharing, honor the rights of coastal and Indigenous peoples, and promote collaboration. Research conducted in developing nations or localized territories must actively involve, empower, and resource scientists from those regions. The network enforces a zero-tolerance policy for harassment, discrimination, bullying, or exploitation in the field, the laboratory, and digital workspaces."
+  },
+  {
+    "objectID": "SoC.html#authorship-policy",
+    "href": "SoC.html#authorship-policy",
+    "title": "Statement of Collaboration and Code of Conduct",
+    "section": "Authorship policy",
+    "text": "Authorship policy\nFor authorship and reporting guidelines we will refer participants to the Vancouver Recommendations: a set of recommendations for best practice and ethical standards in the conduct and reporting of published research. They recommend that all 4 of the following criteria are required for authorship: (i) Substantial contributions to the conception or design of the work; or the acquisition, analysis, or interpretation of data for the work; AND (ii) drafting the work or revising it critically for important intellectual content; AND (iii) final approval of the version to be published; AND (iv) agreement to be accountable for all aspects of the work in ensuring that questions related to the accuracy or integrity of any part of the work are appropriately investigated and resolved.\nWe expect members to negotiate authorship structures at the onset of a project, with clear agreements on expectations and roles for all authors that include plans if those expectations are not met. We expect authorship should be offer to local collaborators, technicians, and early-career researchers who contribute significantly to the project’s viability."
+  },
+  {
+    "objectID": "SoC.html#special-cases",
+    "href": "SoC.html#special-cases",
+    "title": "Statement of Collaboration and Code of Conduct",
+    "section": "Special cases",
+    "text": "Special cases\nWe ask that our members recognize that we live in a unique time, with strong political forces that can potentially dictate who is allowed to participate in this project. We recognize that some participants, or potential participants, may face hurdles in whether they are allowed to collaborate internationally or use specific scientific terms, with serious consequences that could cause them to lose their livelihood. We ask that members practice patience and understanding as we navigate a shifting political landscape, and strive to develop an inclusive environment.\nIn addition, some data may not be immediately suited for public use, such as the specific geographic locations of rare or endangered species, or data that Indigenous people have authority to control. Our network aims to develop recommendations for such cases and help researchers follow best practices [Libby ideas on what to say here]."
+  },
+  {
+    "objectID": "SoC.html#reporting-mechanisms",
+    "href": "SoC.html#reporting-mechanisms",
+    "title": "Statement of Collaboration and Code of Conduct",
+    "section": "Reporting Mechanisms",
+    "text": "Reporting Mechanisms\nViolations of this Code of Conduct—including ethical breaches in the field, data misconduct, or workplace harassment—should be reported to [the safety officer].\nThe [Ethics Committee?] will investigate all formal complaints impartially. Confirmed violations will result in tiered disciplinary actions, which may include: (i) temporary suspension of access to network data repositories and funding channels, and (ii) permanent revocation of membership and notification sent to the member’s home institution compliance officer."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About MacroMar",
+    "section": "",
+    "text": "The goal of this project is to create enabling conditions for macrogenomic studies in the sea by consolidating a set of interoperable seascape genomic datasets for 5000 whole genomes - each with relevant metadata - representative of 100 marine species by 2029 that meet FAIR and CARE data standards. The outcome will enable large-scale, discovery-driven macrogenomic syntheses and facilitate transformative research on the drivers of genetic diversity and structure in marine populations. Such an endeavor is critical for understanding the oceans because global syntheses in marine systems often reveal different outcomes from terrestrial species that can be counterintuitive. Our project will not only reduce obstacles to macrogenomic research, but will result in coordinated research and educational activities on an international scale with a roadmap for the future.\nThrough coordinated research activities, we aim to create the conditions for tackling fundamental, long-standing questions and for testing evolutionary theory."
+  },
+  {
+    "objectID": "about.html#aim-1",
+    "href": "about.html#aim-1",
+    "title": "About MacroMar",
+    "section": "Aim 1",
+    "text": "Aim 1\nOur first Aim is to build community, coordinate efforts, and establish standards via Regional Foundation Workshop. To coordinate efforts, we will hold a series of virtual meetings leading up to the in person workshops with key folks from the participating networks. The goal of the workshops will be to form working groups that will tackle key topics, such as but not limited to: Indigenous genomic standards/metadata, data interoperability, marine environmental data, AI-term matching, polyploid data, and population genomics of plankton."
+  },
+  {
+    "objectID": "about.html#aim-2",
+    "href": "about.html#aim-2",
+    "title": "About MacroMar",
+    "section": "Aim 2",
+    "text": "Aim 2\nOur second aim focuses on making population genomic data interoperable by running it through the same bioinformatics pipeline and by ensuring associated metadata is in a standardized format. We will support the Local Research Pods and use stipend initiatives to promote the completion of projects and to create opportunities for early career researchers."
+  },
+  {
+    "objectID": "about.html#aim-3",
+    "href": "about.html#aim-3",
+    "title": "About MacroMar",
+    "section": "Aim 3",
+    "text": "Aim 3\nOur third aim will be to conduct synthesis of datasets and a horizon scan. A horizon scan identifies developing trends, anticipates risks and opportunities, and develops plans to build resilience against disruptions. We will develop a community roadmap that will define data needs for key questions, identify critical data gaps (e.g., underrepresented taxa) and strategies to address them, develop plans for the sustainability of existing infrastructure, and outline further development of software and infrastructure that will be needed for reproducible, FAIR and CARE-compliant research."
+  },
+  {
+    "objectID": "about.html#membership-in-our-initiative-is-open-to-all.",
+    "href": "about.html#membership-in-our-initiative-is-open-to-all.",
+    "title": "About MacroMar",
+    "section": "Membership in our initiative is open to all.",
+    "text": "Membership in our initiative is open to all."
+  },
+  {
+    "objectID": "index.html#an-open-science-ecosystem-for-enabling-macrogenomic-research-in-the-sea",
+    "href": "index.html#an-open-science-ecosystem-for-enabling-macrogenomic-research-in-the-sea",
+    "title": "",
+    "section": "An open science ecosystem for enabling macrogenomic research in the sea",
+    "text": "An open science ecosystem for enabling macrogenomic research in the sea\nMacrogenetics is an emerging field that seeks to combine population genomic datasets across species to study genetic variation and biodiversity.\nWe are an international network of scientists, students, and researchers working to make data FAIR (findable, accessible, interoperable, and reusable), while following best principles for working with local populations and rare or endangered species."
+  },
+  {
+    "objectID": "index.html#our-goal-is-to-compile-5000-whole-genomes-from-100-species-by-2029.",
+    "href": "index.html#our-goal-is-to-compile-5000-whole-genomes-from-100-species-by-2029.",
+    "title": "",
+    "section": "Our goal is to compile 5,000 whole genomes from 100 species by 2029.",
+    "text": "Our goal is to compile 5,000 whole genomes from 100 species by 2029.\nThese data will serve as a resource for the community to address major unanswered questions in evolutionary biology using marine systems, which host many phyla not found on land yet remain understudied.\nWe are grateful to the Moore Foundation for funding our network activities"
+  },
+  {
+    "objectID": "index.html#partners",
+    "href": "index.html#partners",
+    "title": "",
+    "section": "Partners",
+    "text": "Partners\nRepAdapt\nMarineOmics\nAotearoa Genomic Data Repository"
+  },
+  {
+    "objectID": "DMP.html",
+    "href": "DMP.html",
+    "title": "Data Management Plan",
+    "section": "",
+    "text": "Katie E. Lotterhos (Northeastern University): 0000-0001-7529-2771\nSam Bogan (Skidmore College) 0000-0003-2244-5169\nKatherine Silliman (NOAA): 0000-0001-5964-3965\nRachel Toczydlowski (USDA Forest Service): 0000-0002-8141-2036\nSerena Caplins (Northeastern University): 0000-0003-1311-6697\nAlexa Fredston (UC Santa Cruz): 0000-0002-5449-7054\nLibby Liggins (University of Auckland, New Zealand): 0000-0003-1143-2346\nSam Yeaman (University of Calgary, Canada) 0000-0002-1706-8699\nPierre De Wit (University of Gothenburg, Sweden): 0000-0003-4709-3438"
+  },
+  {
+    "objectID": "DMP.html#authorship-policy",
+    "href": "DMP.html#authorship-policy",
+    "title": "Data Management Plan",
+    "section": "Authorship Policy",
+    "text": "Authorship Policy\nFor authorship and reporting guidelines we will refer participants to the Vancouver Recommendations: a set of recommendations for best practice and ethical standards in the conduct and reporting of published research. They recommend that all 4 of the following criteria are required for authorship: (i) Substantial contributions to the conception or design of the work; or the acquisition, analysis, or interpretation of data for the work; AND (ii) drafting the work or revising it critically for important intellectual content; AND (iii) final approval of the version to be published; AND (iv) agreement to be accountable for all aspects of the work in ensuring that questions related to the accuracy or integrity of any part of the work are appropriately investigated and resolved. They also recommend that when a large multi-­author group has conducted the work, the group ideally should decide who will be an author before the work is started."
+  }
+]
