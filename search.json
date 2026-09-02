@@ -25,7 +25,7 @@
     "href": "SubmitData.html#data-submission-workflow",
     "title": "Submit Data",
     "section": "Data submission workflow",
-    "text": "Data submission workflow\nWe are in the process of publishing our data submission workflow on MarineOmics, a dynamic website for sharing protocols and best principles for marine genomics research.\nTO DO: UPDATE LINK"
+    "text": "Data submission workflow\nWe are in the process of publishing our data submission workflow on MarineOmics, a dynamic website for sharing protocols and best principles for marine genomics research.\nWorkflow coming soon!"
   },
   {
     "objectID": "WorkingGroups.html",
@@ -33,62 +33,6 @@
     "title": "Working Groups",
     "section": "",
     "text": "We are in the process of forming and soliciting working groups.\nCheck back soon for more information"
-  },
-  {
-    "objectID": "Funding.html",
-    "href": "Funding.html",
-    "title": "Funding opportunities",
-    "section": "",
-    "text": "Over the next three years, we will be giving many awards in the amount of ~$5,000 USD to support short-read sequencing of your samples to our data requirements. We are currently getting quotes from sequencing companies for competitive pricing. Stay tuned for information on how to apply.\nApplications will be scored according to the following rubric:\n\nState of sampling (highest score for samples in hand with extracted DNA)\nMetadata submitted with application (highest score for data submitted in our standardized format)\nSamples representative of: species range, population structure, and/or environmental gradients (highest score for all three)\nReference exists (highest score for publicly available reference)\nTaxonomic/Phylogenetic representation (highest score for phyla underrepresented in MacroMar or RepAdapt)\nAbility to match funds or statement of financial need"
-  },
-  {
-    "objectID": "Funding.html#sequencing-support",
-    "href": "Funding.html#sequencing-support",
-    "title": "Funding opportunities",
-    "section": "",
-    "text": "Over the next three years, we will be giving many awards in the amount of ~$5,000 USD to support short-read sequencing of your samples to our data requirements. We are currently getting quotes from sequencing companies for competitive pricing. Stay tuned for information on how to apply.\nApplications will be scored according to the following rubric:\n\nState of sampling (highest score for samples in hand with extracted DNA)\nMetadata submitted with application (highest score for data submitted in our standardized format)\nSamples representative of: species range, population structure, and/or environmental gradients (highest score for all three)\nReference exists (highest score for publicly available reference)\nTaxonomic/Phylogenetic representation (highest score for phyla underrepresented in MacroMar or RepAdapt)\nAbility to match funds or statement of financial need"
-  },
-  {
-    "objectID": "Funding.html#bioinformatics-support",
-    "href": "Funding.html#bioinformatics-support",
-    "title": "Funding opportunities",
-    "section": "Bioinformatics support",
-    "text": "Bioinformatics support\nWe will be hiring a bioinformatician on the project who can help process your sequences through our pipeline. Stay tuned for information on how to apply for their help."
-  },
-  {
-    "objectID": "Funding.html#stipends-for-data-submission",
-    "href": "Funding.html#stipends-for-data-submission",
-    "title": "Funding opportunities",
-    "section": "Stipends for data submission",
-    "text": "Stipends for data submission\nStipends in the about of $X will be available to members of the network who complete the checklist for their data submission. Stay tuned for information on how to apply."
-  },
-  {
-    "objectID": "Funding.html#stipends-for-marineomics-tutorials",
-    "href": "Funding.html#stipends-for-marineomics-tutorials",
-    "title": "Funding opportunities",
-    "section": "Stipends for MarineOmics Tutorials",
-    "text": "Stipends for MarineOmics Tutorials\nStipends in the amount of $XXX USD (?) per team are available for the development of tutorials on MarineOmics. Examples of tutorials we would be interested in (but not limited to):\n\npopulation genomics of polyploid data\nbench protocols for special cases when kits don’t work (e.g., extraction of DNA from whelks)\nisolation by distance with Type II regression\n\nTutorials do not necessarily need to feature marine species, but should clarify how the tutorial will be useful for scientists working in non-model and marine species. Stay tuned for information on how to apply."
-  },
-  {
-    "objectID": "Funding.html#working-group-support",
-    "href": "Funding.html#working-group-support",
-    "title": "Funding opportunities",
-    "section": "Working group support",
-    "text": "Working group support\nStipends in the amount of $XXX USD are available to support the participation of early career individuals or key stakeholders in working groups.\nCurrent working groups for MacroMar and RepAdapt(?) can be found on this page. If you are interested in joining an existing working group, please contact the group leader.\nStay tuned for for information on how to submit an application to support a working group.\nExamples of working groups we would be interested in (but not limited to):\n\nFurther development of metadata standards for MacroMar\nIndigenous metadata and best practices for the CARE principles\nStandards for marine environmental data and how to summarize variables\nPlankton population genomics\nhow to summarize structure in the ocean"
-  },
-  {
-    "objectID": "Funding.html#travel-support",
-    "href": "Funding.html#travel-support",
-    "title": "Funding opportunities",
-    "section": "Travel support",
-    "text": "Travel support\nStipends are available to support travel to our workshops. Stay tuned for information on how to apply."
-  },
-  {
-    "objectID": "Funding.html#macromar-liasons-and-research-pods",
-    "href": "Funding.html#macromar-liasons-and-research-pods",
-    "title": "Funding opportunities",
-    "section": "MacroMar Liasons(?) and Research Pods",
-    "text": "MacroMar Liasons(?) and Research Pods\nIn the near future, we will accepting applications for MacroMar Liasons. Liasons will receive training in the MacroMar workflow and lead the formation of small research pods (3-6 members) who will work together to bring their data up to FAIR standards. Liasons will receive a stipend."
   },
   {
     "objectID": "Workshops.html",
@@ -109,7 +53,7 @@
     "href": "membership.html",
     "title": "How to join",
     "section": "",
-    "text": "Coming soon"
+    "text": "Coming soon!"
   },
   {
     "objectID": "SoC.html",
