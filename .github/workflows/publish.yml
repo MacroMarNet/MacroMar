@@ -1,16 +1,15 @@
-yamlname: Render and Publish Quarto Site
-
 on:
+  workflow_dispatch:
   push:
-    branches: [ main, master ]
+    branches: main
+
+name: Quarto Publish
 
 jobs:
   build-deploy:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-      pages: write
-      id-token: write
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
@@ -18,16 +17,7 @@ jobs:
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
 
-      # -----------------------------------------------------------------
-      # OPTIONAL: Uncomment if your Quarto files execute Python/R code
-      # -----------------------------------------------------------------
-      # - name: Set up Python
-      #   uses: actions/setup-python@v5
-      #   with:
-      #     python-version: '3.10'
-      # - run: pip install jupyter
-
-      - name: Render and Publish to GitHub Pages
+      - name: Render and Publish
         uses: quarto-dev/quarto-actions/publish@v2
         with:
           target: gh-pages
