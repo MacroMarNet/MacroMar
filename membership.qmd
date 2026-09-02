@@ -3,4 +3,4 @@ title: "How to join"
 format: html
 ---
 
-# Coming soon
+# Coming soon!
