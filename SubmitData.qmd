@@ -1,0 +1,28 @@
+---
+title: "Submit Data"
+format: html
+---
+
+## Goal
+
+The goal of this project is to make population genomic data and associated metadata FAIR (findable, accessible, interoperable, and reusable). To maintain interoperability, we require all samples to use short-read sequencing technology, the same bioinformatics pipeline, and the same metadata format.
+   
+## Data requirements
+
+- [ ] Short-read whole genome sequencing (Illumina or AVITI)
+  - High coverage data preferred 8x minimum coverage 
+  - Pool-seq data accepted
+  - Low-coverage data not accepted
+- [ ] Multiple individuals. 
+  - **For high coverage data:** We aim to have at least 50 individuals per species, but datasets of ~100 individuals spanning a phenotypic or environmental gradient, or that are representative of the species range or population structure would be more ideal. We will also accept datasets with fewer individuals, such as for rare or endangered species, or hard-to-obtain samples.
+  - **For pool seq data**: We recommend at least 40 individuals and 100x coverage per pool, with at least 20 pools.
+  - Please note that we are interested in all species, regardless of whether there is strong population structure or local adaptation.
+- [ ] A reference genome exists
+- [ ] Sufficient metadata for each sample, including the latitude, longitude, depth, and time of sampling. 
+  - Ideally, historical environmental data is also available for each sample (one of the goals of this project will be to determine how to summarize this data in a standardized way). Currently we do not have specific requirements for the resolution or minimum time span of historical environmental data, but please be prepared to list sources of relevant environmental data when you submit your samples.
+
+## Data submission workflow
+
+We are in the process of publishing our data submission workflow on [MarineOmics](https://marineomics.github.io/), a dynamic website for sharing protocols and best principles for marine genomics research.
+
+TO DO: UPDATE LINK

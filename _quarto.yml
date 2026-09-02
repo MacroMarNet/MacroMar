@@ -1,0 +1,47 @@
+project:
+  type: website
+
+website:
+  title: "Marine Macrogenomics Network"
+  navbar:
+    logo: "img/MacroMar_screen.png"
+    left:
+      - href: index.qmd
+        text: Home
+      - text: "About"
+        menu: 
+          - text: "About MacroMar"
+            file: about.qmd
+          - text: "Principal Investigators"
+            file: PIs.qmd
+      - text: Membership
+        menu: 
+          - text: "How to join"
+            file: membership.qmd
+          - text: "Statement of collaboration and code of conduct"
+            file: SoC.qmd
+      - text: Data
+        menu:
+          - text: "Submit data"
+            file: SubmitData.qmd
+          - text: "Data Management Plan"
+            file: DMP.qmd
+      - text: Activities
+        menu: 
+          - text: "Funding opportunities"
+            file: Funding.qmd
+          - text: "Working groups"
+            file: WorkingGroups.qmd
+          - text: "Upcoming Workshops"
+            file: Workshops.qmd
+
+
+format:
+  html:
+    theme: yeti
+    css: styles.css
+    toc: true
+    favicon: "img/MacroMar_screen.png"  # Path to your icon image file
+
+editor: visual
+
