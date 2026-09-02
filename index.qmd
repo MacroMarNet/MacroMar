@@ -4,13 +4,13 @@
 
 <center>
 
-# ![](img/MacroMar_screen.png)
+# ![](img/MacroMar_logo_fish.jpg)
 
 ## An open science ecosystem for enabling macrogenomic research in the sea
 
 Macrogenetics is an emerging field that seeks to combine population genomic datasets across species to study genetic variation and biodiversity.
 
-We are an international network of scientists, students, and researchers working to make data FAIR (findable, accessible, interoperable, and reusable), while following best principles for working with local populations and rare or endangered species.
+We are an international network of scientists, students, and researchers working to make data FAIR (findable, accessible, interoperable, and reusable), while following best principles for working with local peoples and rare or endangered species.
 
 ## Our goal is to compile 5,000 whole genomes from 100 species by 2029.
 

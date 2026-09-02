@@ -4,7 +4,7 @@ project:
 website:
   title: "Marine Macrogenomics Network"
   navbar:
-    logo: "img/MacroMar_screen.png"
+    logo: "img/MacroMar_logo_fish.jpg"
     left:
       - href: index.qmd
         text: Home
@@ -41,7 +41,7 @@ format:
     theme: yeti
     css: styles.css
     toc: true
-    favicon: "img/MacroMar_screen.png"  # Path to your icon image file
+    favicon: "img/MacroMa_logo_fish.jpg"  # Path to your icon image file
 
 editor: visual
 
