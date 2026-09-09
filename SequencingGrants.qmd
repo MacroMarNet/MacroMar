@@ -1,0 +1,49 @@
+---
+title: "SequencingGrants"
+format: html
+---
+
+We will be giving many awards in the amount of \~\$5,000 USD to support short-read, whole genome Illumina sequencing of your samples to \~8x coverage. We have competitive pricing from Harvard Bauer Core (Boston, USA) for sequencing.
+
+Investigators will send their extracted DNA on standard SPS plates (96 well or 384 well) directly to Harvard Bauer Core. The pricing is better for samples organized on 384 well plates. As a ballpark estimate, the cost for whole genome sequencing of 96 samples of a 1Gb genome to 8x coverage is about \$5000. Investigators who wish to sequence more samples or to higher coverage are welcome to do so through a cost-sharing mechanism.
+
+Applicants who are interested in sequencing more than one species should independent applications for each species.
+
+## Prepare to apply
+
+-   [ ] Before you apply, please [join MacroMar as a member]().
+-   [ ] Before you apply, please obtain a MacroMar ID for your dataset by filling out the [Intent to Collaborate Form]() for each species.
+-   [ ] We expect that you are prepared to submit your samples for whole genome sequencing within 2 months of submitting your application. When you apply, tissue samples should be in hand and the application will ask for the status of DNA extraction.
+-   [ ] In the application you will be asked to submit sample metadata in our standardized spreadsheet format. Download the [metadata template here](). ADD LINK
+-   [ ] If you will be shipping extracted DNA from overseas, the application will ask you to list applicable regulations for your study species. [More information can be found here](https://www.cbp.gov/border-security/protecting-agriculture/importing-biological-materials-united-states).For example, you must obtain reciprocal CITES permits or certificates from both the exporting and importing countries before shipping extracted DNA from a protected species.
+-   [ ] In the application you will be asked to submit a cost estimate in a standardized spreadsheet format. Download the [cost estimate spreadsheet here]().
+    -   If the total project cost is greater than \$5000 USD, please use the column in the spreadsheet to indicate which aspects will be covered by MacroMar and which will be covered by your own funding. Due to the submission system, costs will be covered on a unit basis (e.g., either library prep for X samples, or sequencing only, or some combination of library prep and sequencing). We will consider exceptions for research groups who do not currently have funding and whose total exceeds \$5000 USD for 60 samples to 8x coverage.
+-   [ ] The application will ask, if you are awarded, that you agree to follow the MacroMar workflow for bioinformatics and share the resulting VCF files with the MacroMar project. [, sign the data sharing agreement,]().
+-   [ ] Additional questions in the application include the status of the reference genome, and how well the samples represent the species range, population structure, and/or environmental gradients.
+
+## How to apply
+
+[Please fill out this form to apply]()
+
+PI Name Institution Name Research Based Project
+
+## Upcoming application deadlines
+
+December 1, 2026 February 1, 2027 May 1, 2027 August 1, 2027
+
+## Scoring rubric
+
+Applications will be scored according to the following rubric:
+
+-   State of sampling (highest score for samples in hand with extracted DNA)
+-   Metadata submitted with application (highest score for data submitted in our standardized format)
+-   Samples representative of: species range, population structure, and/or environmental gradients (highest score for all three)
+-   Reference exists (highest score for publicly available reference)
+-   Taxonomic/Phylogenetic representation (highest score for phyla underrepresented in MacroMar or RepAdapt)
+-   Ability to match funds or statement of financial need
+
+## Submission instructions / If you are awarded
+
+-   Standard 96 well or 384 well plates.
+-   special foil
+-   Harvard export of data will need to go through export control process, PI Name Institution Name Research Based Project

@@ -5,16 +5,7 @@ format: html
 
 ## Sequencing support
 
-Over the next three years, we will be giving many awards in the amount of ~$5,000 USD to support short-read sequencing of your samples to our [data requirements](SubmitData.qmd). We are currently getting quotes from sequencing companies for competitive pricing. Stay tuned for information on how to apply.
-
-Applications will be scored according to the following rubric:
-
-- State of sampling (highest score for samples in hand with extracted DNA)
-- Metadata submitted with application (highest score for data submitted in our standardized format)
-- Samples representative of: species range, population structure, and/or environmental gradients (highest score for all three)
-- Reference exists (highest score for publicly available reference)
-- Taxonomic/Phylogenetic representation (highest score for phyla underrepresented in MacroMar or RepAdapt)
-- Ability to match funds or statement of financial need 
+Over the next three years, we will be giving many awards in the amount of \~\$5,000 USD to support short-read sequencing of your samples to our [data requirements](SubmitData.qmd). Visit the sequencing grants page for information on how to apply.
 
 ## Bioinformatics support
 
@@ -22,38 +13,37 @@ We will be hiring a bioinformatician on the project who can help process your se
 
 ## Stipends for data submission
 
-Stipends in the about of $X will be available to members of the network who complete the checklist for their data submission. Stay tuned for information on how to apply.
+Stipends in the about of \$X will be available to members of the network who complete the checklist for their data submission. Stay tuned for information on how to apply.
 
 ## Stipends for MarineOmics Tutorials
 
-Stipends in the amount of $XXX USD (?) per team are available for the development of tutorials on MarineOmics. Examples of tutorials we would be interested in (but not limited to):
+Stipends in the amount of \$XXX USD (?) per team are available for the development of tutorials on MarineOmics. Examples of tutorials we would be interested in (but not limited to):
 
-- population genomics of polyploid data
-- bench protocols for special cases when kits don't work (e.g., extraction of DNA from whelks)
-- isolation by distance with Type II regression
+-   population genomics of polyploid data
+-   bench protocols for special cases when kits don't work (e.g., extraction of DNA from whelks)
+-   isolation by distance with Type II regression
 
 Tutorials do not necessarily need to feature marine species, but should clarify how the tutorial will be useful for scientists working in non-model and marine species. Stay tuned for information on how to apply.
 
 ## Working group support
 
-Stipends in the amount of $XXX USD are available to support the participation of early career individuals or key stakeholders in working groups.
+Stipends in the amount of \$XXX USD are available to support the participation of early career individuals or key stakeholders in working groups.
 
 **Current working groups for MacroMar and RepAdapt(?)** can be found [on this page](WorkingGroups.qmd). If you are interested in joining an existing working group, please contact the group leader.
 
-Stay tuned for for information on how to submit an application to support a working group. 
+Stay tuned for for information on how to submit an application to support a working group.
 
 Examples of working groups we would be interested in (but not limited to):
 
-  - Further development of metadata standards for MacroMar
-  - Indigenous metadata and best practices for the CARE principles
-  - Standards for marine environmental data and how to summarize variables
-  - Plankton population genomics
-  - how to summarize structure in the ocean
+-   Further development of metadata standards for MacroMar
+-   Indigenous metadata and best practices for the CARE principles
+-   Standards for marine environmental data and how to summarize variables
+-   Plankton population genomics
+-   how to summarize structure in the ocean
 
 ## Travel support
 
 Stipends are available to support travel to our workshops. Stay tuned for information on how to apply.
-
 
 ## MacroMar Liasons(?) and Research Pods
 

@@ -13,4 +13,6 @@ format: html
 
 We will use the listserv to send updates about activities and funding opportunities.
 
-MacroMar Listserv: Click here to join or manage your subscription.
+-   Send an email to **`MacroMar+subscribe@googlegroups.com`**. Leave the subject line and the body of the email completely empty, then click **Send**.
+
+-   Check your inbox for a confirmation email. Open the email and follow the instructions (usually replying to the email or clicking a link) to confirm your subscription.
