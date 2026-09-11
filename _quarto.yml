@@ -32,10 +32,12 @@ website:
             file: WorkingGroups.qmd
           - text: "Upcoming Workshops"
             file: Workshops.qmd
-      - text: "Funding"
+      - text: "Grants"
         menu: 
-          - text: "Funding opportunities"
+          - text: "Grants overview"
             file: Funding.qmd
+          - text: "Sequencing grants"
+            file: SequencingGrants.qmd
 
 
 format:
