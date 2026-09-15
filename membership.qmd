@@ -9,13 +9,28 @@ format: html
 
 [MacroMar membership application: Click here to join.](https://forms.gle/6rPBR9qcZXUctTRD7)
 
-## 2) Sign up for the listserv
+## 2) Subscribe to the listserv via Email
 
-We will use the listserv to send updates about activities and funding opportunities.
+-   **To:** `listserv@listserv.neu.edu`
 
--   Send an email to **`MacroMar+subscribe@googlegroups.com`**. Leave the subject line and the body of the email completely empty, then click **Send**.
+-   **Subject:** Leave this blank.
 
--   Check your inbox for a confirmation email. Open the email and follow the instructions (usually replying to the email or clicking a link) to confirm your subscription.
+-   **Message Body:** `SUBSCRIBE macromar YourFirstName YourLastName`
+
+After you send this email, you will get a message to complete your subscription:
+
+```         
+Your command:
+SUBSCRIBE MACROMAR YourFirstName YourLastName
+has been received. You must now reply to this message (as explained below) to complete your subscription. The purpose of this confirmation procedure is to make sure that you have indeed requested to be added to the list.
+
+To confirm the execution of your command, simply click on the following link:
+<CLICK ON THE LINK>
+```
+
+Then you will receive a confirmation that "You are now subscribed to the MACROMAR list".
+
+To send a message to the list, email `macromar@listserv.neu.edu`. You may receive an email to confirm you are human and then another confirmation message that the post was sent.
 
 ## Intending to collaborate?
 

@@ -24,5 +24,3 @@ The goal of this project is to make population genomic data and associated metad
 ## Data submission workflow
 
 We are in the process of publishing our data submission workflow on [MarineOmics](https://marineomics.github.io/), a dynamic website for sharing protocols and best principles for marine genomics research.
-
-TO DO: UPDATE LINK

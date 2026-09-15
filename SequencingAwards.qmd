@@ -1,0 +1,65 @@
+---
+title: "Sequencing Awards"
+format: html
+---
+
+## Conditions of Award
+
+-   Award funds will be paid directly to the sequencing facility
+-   When disseminating results, please use the following acknowledgement statement: "This project is part of the MacroMar Project, which is funded by the Moore Foundation. Sequencing was completed at the Bauer Core Facility at Harvard University."
+-   Awardees are expected to run the resulting .fastq files through the MacroMar Workflow on MarineOmics to produce a .vcf file and contribute that dataset to the MacroMar project
+
+## Macro-Mar Projects at the Bauer Core Facility
+
+### Obtain a PO
+
+1.  **Create an account using the following link:** <https://bauercore.fas.harvard.edu/harvard-bauer-core-lockbox-lims>
+2.  **Create a PO for your portion of the project**
+    1.  **PO Generation Instructions**
+        1.   Note: Failure to add the PDF of a valid PO will cause delays to your services
+        2.  The PO must be in PDF format and include the company's logo, company name, and all relevant PO details
+        3.  Vendor name and address:
+            1.   ***Harvard University***\
+                ***Central Accounts Receivable***\
+                ***P.O. Box 4999***\
+                ***Boston, MA 02212-4999 USA***
+            2.   There are multiple Harvard University vendor accounts, make sure to select the correct one listed above
+        4.  Screenshots or other documents are not accepted in place of a PDF
+        5.   A valid PO must be uploaded to the system before any work can begin at our facilities.
+        6.   The core is not responsible for any delays due to billing issues and will not begin work until they are resolved
+    2.  HOW DO INDICATE MACROMAR AND WHO WILL PAY FOR WHAT? If there are any other people you want copied, add that in the notes section above the estimate page during your initial request.
+
+### Prepare your samples
+
+1.  **Array samples in full column format in a 96-well PCR plate (semi or full skirted) w/ a foil seal**
+    1.  FOIL SEAL ORDER OR ASK LOTTERHOS TO MAIL YOU ONE
+    2.  We recommend that you randomize your samples within and across plates, or at least avoid . This will help to reduce batch effects.
+2.  **See the following links for additional requirements**
+    1.  **Submission Details:** <https://bauercore.fas.harvard.edu/submitting-samples-illumina-sequencing>
+    2.   **DNA Prep Details** <https://bauercore.fas.harvard.edu/starting-material-dna>
+        1.  Harvard will normalize the DNA concentrations before library prep, so you do not have to normalize your samples before you send them. But please follow the prep details and make sure your DNA concentrations are not too high or too low.
+3.   **Submit your submission request once you have the PO and sample details** <https://harb.my.site.com/hbc/s/>
+4.  **Once your submission has been “Reviewed” in the system, you can send samples to the core**
+
+### Send your samples
+
+1.   Details on **shipping samples to the core** <https://bauercore.fas.harvard.edu/sample-drop>. SHIPPING ADVICE
+    1.  If you are in the Boston area, you can also drop them off following the instructions in the link.
+
+### Sample processing
+
+1.  **Core staff will “Accept” the request once samples have been successfully received**
+2.  **Core staff will communicate through the (Laboratory Information Management System) LIMS throughout the process**
+3.   **After sequencing is completed, you will receive data through the LIMS**
+    1.  You are responsible for downloading your data and storing it. If you need assistance or a data storage/processing solution, please contact k.lotterhos\@northeastern.edu
+    2.  An email with a copy will be sent to the MacroMar PI (Lotterhos)
+    3.   If there are any other people you want copied, add that in the notes section above the estimate page during your initial request.
+4.  **Data Analysis Includes:**  <https://bauercore.fas.harvard.edu/ngs-data-analysis>
+5.  Note that for international submission, export of data will go through an export control process which requires the PI Name, Institution Name, and confirmation that this is a Research Based Project
+
+### Acknowledgements in publications and presentations
+
+1.  Acknowledge the "MacroMar Project" and funding from the "Moore Foundation"
+2.  **Acknowledge the** "**The Bauer Core Facility at Harvard University**."
+
+### Send general inquiries to: [illumina_submission-list\@lists.fas.harvard.edu](mailto:illumina_submission-list@lists.fas.harvard.edu) 
