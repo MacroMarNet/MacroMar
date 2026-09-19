@@ -46,6 +46,7 @@ format:
     css: styles.css
     toc: true
     favicon: "img/MacroMa_logo_fish.jpg"  # Path to your icon image file
+    link-external-newwindow: true
 
 editor: visual
 
