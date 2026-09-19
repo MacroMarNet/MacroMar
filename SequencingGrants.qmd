@@ -48,8 +48,7 @@ Applications will be scored according to the following rubric:
 -   Taxonomic/Phylogenetic representation (highest score for phyla underrepresented in MacroMar or RepAdapt)
 -   Ability to match funds or statement of financial need
 
-## Submission instructions / If you are awarded
+## Submission instructions (if you are awarded)
 
-Award conditions and submission instructions can be found here:
-https://macromarnet.github.io/MacroMar/SequencingAwards.html
+Award conditions and submission instructions can be found here: [Sequencing Awards](SequencingAwards.qmd)
 
