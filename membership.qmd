@@ -11,7 +11,7 @@ format: html
 
 ## 2) Subscribe to the listserv via Email
 
--   Send an email to `macromar+subscribe@googlegroups.com` from the email address
+-   Send an email to `macromar+subscribe@googlegroups.com` from the email address you would like to receive updates in. Please note that if the email does not match the email in the membership form, you may be removed from the list.
 
 -   In a few minutes you will receive a "Join Request from MacroMar". **Do not click on the link in this email** (it will not work if you are using a non-google account) - **instead,** **simply reply to the email.**
 
