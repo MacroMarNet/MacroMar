@@ -11,30 +11,17 @@ format: html
 
 ## 2) Subscribe to the listserv via Email
 
--   **To:** `listserv@listserv.neu.edu`
+-   Send an email to `macromar+subscribe@googlegroups.com` from the email address
 
--   **Subject:** Leave this blank.
+-   In a few minutes you will receive a "Join Request from MacroMar". **Do not click on the link in this email** (it will not work if you are using a non-google account) - **instead,** **simply reply to the email.**
 
--   **Message Body:** `SUBSCRIBE macromar YourFirstName YourLastName`
+-   In a few minutes you will receive a confirmation message: "You are now a member of the macromar group."
 
-After you send this email, you will get a message to complete your subscription:
-
-```         
-Your command:
-SUBSCRIBE MACROMAR YourFirstName YourLastName
-has been received. You must now reply to this message (as explained below) to complete your subscription. The purpose of this confirmation procedure is to make sure that you have indeed requested to be added to the list.
-
-To confirm the execution of your command, simply click on the following link:
-<CLICK ON THE LINK>
-```
-
-Then you will receive a confirmation that "You are now subscribed to the MACROMAR list".
-
-To send a message to the list, email `macromar@listserv.neu.edu`. You may receive an email to confirm you are human and then another confirmation message that the post was sent.
+-   If you have an issue joining, please email `k.lotterhos <at> northeastern.edu`
 
 ## Intending to collaborate?
 
-If you intend to collaborate with the project by submitting data either now or sometime in the future, please fill out our [Intent to Contribute a Dataset Form](MacroMar Intent to Contribute a Dataset) for each dataset you would like to contribute. Submitting this form will generate a MacroMar ID for your dataset. Filling out this form will help us gauge progress towards our goal of 5000 genomes from 100 species.
+If you intend to collaborate with the project by submitting data either now or sometime in the future, please fill out our [Intent to Contribute a Dataset Form](https://forms.gle/omVFAcZivpXDM5jE8) for each dataset you would like to contribute. Submitting this form will generate a MacroMar ID for your dataset. Filling out this form will help us gauge progress towards our goal of 5000 genomes from 100 species.
 
 ## Apply for a grant or attend a workshop
 
