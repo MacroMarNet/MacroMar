@@ -5,7 +5,7 @@ format: html
 
 ## Sequencing support
 
-Over the next three years, we will be giving many awards in the amount of \~\$5,200 USD to support short-read sequencing of your samples to our [data requirements](SubmitData.qmd). Visit the [sequencing grants page](https://macromarnet.github.io/MacroMar/SequencingAwards.html) for information on how to apply.
+Over the next three years, we will be giving many awards in the amount of \~\$5,200 USD to support short-read sequencing of your samples to our [data requirements](SubmitData.qmd). Visit the [sequencing grants page](SequencingGrants.qmd) for information on how to apply.
 
 ## Bioinformatics support
 

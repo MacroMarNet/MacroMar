@@ -1,5 +1,5 @@
 ---
-title: "SequencingGrants"
+title: "Sequencing Grants"
 format: html
 ---
 
@@ -11,7 +11,7 @@ Applicants who are interested in sequencing more than one species should indepen
 
 ## Prepare to apply
 
--   [ ] Before you apply, please [join MacroMar as a member](https://macromarnet.github.io/MacroMar/membership.html).
+-   [ ] Before you apply, please [join MacroMar as a member](membership.qmd).
 -   [ ] Before you apply, please obtain a MacroMar ID for your dataset by filling out the [Intent to Contribute a Dataset Form](https://forms.gle/9xaCrmggy3tjBtDE9) for each species.
 -   [ ] We expect that you are prepared to submit your samples for whole genome sequencing within 3 months of submitting your application. When you apply, tissue samples should be in hand and the application will ask for the status of DNA extraction.
 -   [ ] In the application you will be asked to submit sample metadata in our standardized spreadsheet format. Download the [metadata template here](https://docs.google.com/spreadsheets/d/1wCsz_d5vWkD-KoAmW61bBEmeyyinZwI1Dpy0bmimITw). 
