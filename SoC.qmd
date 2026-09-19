@@ -3,6 +3,7 @@ title: "Statement of Collaboration and Code of Conduct"
 format: html
 ---
 
+
 The MacroMar Network is dedicated to promoting collaboration, networking, and the exchange of knowledge. We welcome and encourage participation by all individuals, at any career stage, who have a genuine interest in participating in the project. We strive to cultivate a network built on encouragement, acceptance, and mutual respect, thereby engendering a welcoming environment for all. We will further promote inclusion by fostering a focus on belonging in membership, leadership, committees, outreach, public engagement, recruitment, and in all other areas of activity within the network. We define inclusion as the process of increasing the presence, participation, and achievement of all network members, while attending to the diversity of nationalities, career stages, and identities represented across the MacroMar community. 
 
 ## Expectations of members
@@ -28,3 +29,4 @@ In addition, some data may not be suited for public use, such as the specific ge
 Violations of this Code of Conduct—including ethical breaches in MacroMar datasets, data misconduct, violation of data sharing agreements or embargoes, failure to recognize individual contributions, or workplace harassment at MacroMar workshops, working groups, or events—should be reported to a member of the [MacroMar Investigator Team](https://macromarnet.github.io/MacroMar/PIs.html).
 
 An Ethics Committee will be formed to investigate all formal complaints impartially. Confirmed violations will result in tiered disciplinary actions, which may include: (i) temporary suspension of access to network data repositories and funding channels, and (ii) permanent revocation of membership and notification sent to the member’s home institution compliance officer.
+
