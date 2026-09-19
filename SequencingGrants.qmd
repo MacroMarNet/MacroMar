@@ -1,0 +1,55 @@
+---
+title: "SequencingGrants"
+format: html
+---
+
+We will be giving many awards in the amount of \~\$5,200 USD to support short-read, whole genome Illumina sequencing of your samples to \~8x coverage. We have competitive pricing from Harvard Bauer Core (Boston, USA) for sequencing.
+
+Investigators will send their extracted DNA on standard SPS plates (96 well or 384 well) directly to Harvard Bauer Core. The pricing is better for samples organized on 384 well plates. As a ballpark estimate, the cost for whole genome sequencing of 60 samples of a 1Gb genome to at least 8x coverage is about \$5200. Investigators who wish to sequence more samples or to higher coverage are welcome to do so through a cost-sharing mechanism.
+
+Applicants who are interested in sequencing more than one species should independent applications for each species.
+
+## Prepare to apply
+
+-   [ ] Before you apply, please [join MacroMar as a member](https://macromarnet.github.io/MacroMar/membership.html).
+-   [ ] Before you apply, please obtain a MacroMar ID for your dataset by filling out the [Intent to Contribute a Dataset Form](https://forms.gle/9xaCrmggy3tjBtDE9) for each species.
+-   [ ] We expect that you are prepared to submit your samples for whole genome sequencing within 3 months of submitting your application. When you apply, tissue samples should be in hand and the application will ask for the status of DNA extraction.
+-   [ ] In the application you will be asked to submit sample metadata in our standardized spreadsheet format. Download the [metadata template here](https://docs.google.com/spreadsheets/d/1wCsz_d5vWkD-KoAmW61bBEmeyyinZwI1Dpy0bmimITw). 
+-   [ ] If you will be shipping extracted DNA from overseas, you are responsible for the applicable permits. [More information can be found here](https://www.cbp.gov/border-security/protecting-agriculture/importing-biological-materials-united-states). Most biological materials will not need a permit, but protected species do. For example, you must obtain reciprocal CITES permits or certificates from both the exporting and importing countries before shipping extracted DNA from a protected species.
+-   [ ] In the application you will be asked to submit a cost estimate in a standardized spreadsheet format. Download the [cost estimate spreadsheet here](https://docs.google.com/spreadsheets/d/1BoiTFLBvfKXDYB4ximpOcYBElr2c3AU3) and follow the instructions on the README.
+    -   If you would like to request more than \$5200 USD from MacroMar, please follow the instructions in the spreadsheet to change the amount covered by MacroMar. Due to the submission system, costs will be covered on a unit basis (e.g., either library prep for X samples, or sequencing only, or some combination of library prep and sequencing). We will consider exceptions for research groups who do not currently have funding or have very large genomes and whose total exceeds \$5200 USD for 60 samples to 8x coverage. 
+-   [ ] The application will ask, if you are awarded, that you agree to follow the MacroMar workflow for bioinformatics and share the resulting VCF files with the MacroMar project via our [authorship and data usage policy](https://docs.google.com/document/d/1taODC1_zdGmjJ0Iy0K3z9JI2PaUlOnM4FNEmwyodCZA)
+
+## How to apply
+
+[Please fill out this form to apply](https://forms.gle/vk3nDPMRu4HytQ9s9)
+
+
+## Upcoming application deadlines
+
+We plan to fund sequencing for about 3-5 species at each deadline.
+
+- December 1, 2026 
+- February 1, 2027 
+- May 1, 2027 
+- August 1, 2027
+
+We will announce more dates in 2027. In total we aim to support sequencing for about 25-30 species over the course of the project.
+
+## Scoring rubric
+
+Applications will be scored according to the following rubric:
+
+-   State of sampling (highest score for samples in hand with extracted DNA)
+-   Metadata submitted with application (highest score for data submitted in our standardized format)
+-   Samples representative of: species range, population structure, and/or environmental gradients (highest score for all three)
+- Biogeographic representation (highest score for samples from underrepresented habitats or geographic areas)
+-   Reference exists (highest score for publicly available reference)
+-   Taxonomic/Phylogenetic representation (highest score for phyla underrepresented in MacroMar or RepAdapt)
+-   Ability to match funds or statement of financial need
+
+## Submission instructions / If you are awarded
+
+Award conditions and submission instructions can be found here:
+https://macromarnet.github.io/MacroMar/SequencingAwards.html
+

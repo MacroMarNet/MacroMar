@@ -3,4 +3,26 @@ title: "How to join"
 format: html
 ---
 
-# Coming soon!
+# How to Join
+
+## 1) Fill out this form
+
+[MacroMar membership application: Click here to join.](https://forms.gle/6rPBR9qcZXUctTRD7)
+
+## 2) Subscribe to the listserv via Email
+
+-   Send an email to `macromar+subscribe@googlegroups.com` from the email address
+
+-   In a few minutes you will receive a "Join Request from MacroMar". **Do not click on the link in this email** (it will not work if you are using a non-google account) - **instead,** **simply reply to the email.**
+
+-   In a few minutes you will receive a confirmation message: "You are now a member of the macromar group."
+
+-   If you have an issue joining, please email `k.lotterhos <at> northeastern.edu`
+
+## Intending to collaborate?
+
+If you intend to collaborate with the project by submitting data either now or sometime in the future, please fill out our [Intent to Contribute a Dataset Form](https://forms.gle/omVFAcZivpXDM5jE8) for each dataset you would like to contribute. Submitting this form will generate a MacroMar ID for your dataset. Filling out this form will help us gauge progress towards our goal of 5000 genomes from 100 species.
+
+## Apply for a grant or attend a workshop
+
+We have funds to support sequencing, working groups, and travel to workshops, as well as stipends for completing dataset submissions. Check out our [Funding](https://macromarnet.github.io/MacroMar/Funding.html) page for more information.
