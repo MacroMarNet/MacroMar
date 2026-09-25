@@ -1,59 +1,38 @@
 [
   {
-    "objectID": "SequencingGrants.html",
-    "href": "SequencingGrants.html",
-    "title": "Sequencing Grants",
+    "objectID": "membership.html",
+    "href": "membership.html",
+    "title": "How to join",
     "section": "",
-    "text": "We will be giving many awards in the amount of ~$5,200 USD to support short-read, whole genome Illumina sequencing of your samples to ~8x coverage. We have competitive pricing from Harvard Bauer Core (Boston, USA) for sequencing.\nInvestigators will send their extracted DNA on standard SPS plates (96 well or 384 well) directly to Harvard Bauer Core. The pricing is better for samples organized on 384 well plates. As a ballpark estimate, the cost for whole genome sequencing of 60 samples of a 1Gb genome to at least 8x coverage is about $5200. Investigators who wish to sequence more samples or to higher coverage are welcome to do so through a cost-sharing mechanism.\nApplicants who are interested in sequencing more than one species should independent applications for each species."
+    "text": "MacroMar membership application: Click here to join."
   },
   {
-    "objectID": "SequencingGrants.html#prepare-to-apply",
-    "href": "SequencingGrants.html#prepare-to-apply",
-    "title": "Sequencing Grants",
-    "section": "Prepare to apply",
-    "text": "Prepare to apply\n\nBefore you apply, please join MacroMar as a member.\nBefore you apply, please obtain a MacroMar ID for your dataset by filling out the Intent to Contribute a Dataset Form for each species.\nWe expect that you are prepared to submit your samples for whole genome sequencing within 3 months of submitting your application. When you apply, tissue samples should be in hand and the application will ask for the status of DNA extraction.\nIn the application you will be asked to submit sample metadata in our standardized spreadsheet format. Download the metadata template here.\nIf you will be shipping extracted DNA from overseas, you are responsible for the applicable permits. More information can be found here. Most biological materials will not need a permit, but protected species do. For example, you must obtain reciprocal CITES permits or certificates from both the exporting and importing countries before shipping extracted DNA from a protected species.\nIn the application you will be asked to submit a cost estimate in a standardized spreadsheet format. Download the cost estimate spreadsheet here and follow the instructions on the README.\n\nIf you would like to request more than $5200 USD from MacroMar, please follow the instructions in the spreadsheet to change the amount covered by MacroMar. Due to the submission system, costs will be covered on a unit basis (e.g., either library prep for X samples, or sequencing only, or some combination of library prep and sequencing). We will consider exceptions for research groups who do not currently have funding or have very large genomes and whose total exceeds $5200 USD for 60 samples to 8x coverage.\n\nThe application will ask, if you are awarded, that you agree to follow the MacroMar workflow for bioinformatics and share the resulting VCF files with the MacroMar project via our authorship and data usage policy"
-  },
-  {
-    "objectID": "SequencingGrants.html#how-to-apply",
-    "href": "SequencingGrants.html#how-to-apply",
-    "title": "Sequencing Grants",
-    "section": "How to apply",
-    "text": "How to apply\nPlease fill out this form to apply"
-  },
-  {
-    "objectID": "SequencingGrants.html#upcoming-application-deadlines",
-    "href": "SequencingGrants.html#upcoming-application-deadlines",
-    "title": "Sequencing Grants",
-    "section": "Upcoming application deadlines",
-    "text": "Upcoming application deadlines\nWe plan to fund sequencing for about 3-5 species at each deadline.\n\nDecember 1, 2026\nFebruary 1, 2027\nMay 1, 2027\nAugust 1, 2027\n\nWe will announce more dates in 2027. In total we aim to support sequencing for about 25-30 species over the course of the project."
-  },
-  {
-    "objectID": "SequencingGrants.html#scoring-rubric",
-    "href": "SequencingGrants.html#scoring-rubric",
-    "title": "Sequencing Grants",
-    "section": "Scoring rubric",
-    "text": "Scoring rubric\nApplications will be scored according to the following rubric:\n\nState of sampling (highest score for samples in hand with extracted DNA)\nMetadata submitted with application (highest score for data submitted in our standardized format)\nSamples representative of: species range, population structure, and/or environmental gradients (highest score for all three)\nBiogeographic representation (highest score for samples from underrepresented habitats or geographic areas)\nReference exists (highest score for publicly available reference)\nTaxonomic/Phylogenetic representation (highest score for phyla underrepresented in MacroMar or RepAdapt)\nAbility to match funds or statement of financial need"
-  },
-  {
-    "objectID": "SequencingGrants.html#submission-instructions-if-you-are-awarded",
-    "href": "SequencingGrants.html#submission-instructions-if-you-are-awarded",
-    "title": "Sequencing Grants",
-    "section": "Submission instructions (if you are awarded)",
-    "text": "Submission instructions (if you are awarded)\nWe are in the process of updating the award conditions and submission instructions. Check back soon for more information."
-  },
-  {
-    "objectID": "WorkingGroups.html",
-    "href": "WorkingGroups.html",
-    "title": "Working Groups",
+    "objectID": "membership.html#fill-out-this-form",
+    "href": "membership.html#fill-out-this-form",
+    "title": "How to join",
     "section": "",
-    "text": "We are in the process of soliciting and forming working groups. See our Grants page for updates on how to apply for funds to support a working group.\nCheck back soon for more information"
+    "text": "MacroMar membership application: Click here to join."
   },
   {
-    "objectID": "PIs.html",
-    "href": "PIs.html",
-    "title": "Principal Investigators",
-    "section": "",
-    "text": "Katie E. Lotterhos (Principal Investigator)\nNortheastern University Marine Science Center, USA\nDirector, Center for Marine Ecological Genomics\n\n\n\n\n Sam Bogan\nSkidmore College, USA\nCo-Founder, MarineOmics\n\n\n\n\n\nSerena Caplins\nNortheastern University\nResearch Computing\n\n\n\n\n\n\n\n\nPierre De Wit\nUniversity of Gothenberg, Sweden\nCenter for Marine Evolutionary Biology\n\n\n\n\n\nAlexa Fredston\nUniversity of California, Santa Cruz\nOpen Science Advocate\n\n\n\n\n\nLibby Liggins\nUniversity of Auckland, New Zealand\nGEOME\n\n\n\n\n\n\n\n\nKatherine Silliman\nNational Oceanic and Atmospheric Administration, USA\nCo-Founder, MarineOmics\n\n\n\n\n\nRachel Toczydlowski\nUSDA Forest Service, USA\nGEOME\n\n\n\n\n\nSam Yeaman\nUniversity of Calgary, Canada\nRepAdapt"
+    "objectID": "membership.html#subscribe-to-the-listserv-via-email",
+    "href": "membership.html#subscribe-to-the-listserv-via-email",
+    "title": "How to join",
+    "section": "2) Subscribe to the listserv via Email",
+    "text": "2) Subscribe to the listserv via Email\n\nSend an email to macromar+subscribe@googlegroups.com from the email address you would like to receive updates in. Please note that if the email does not match the email in the membership form, you may be removed from the list.\nIn a few minutes you will receive a “Join Request from MacroMar”. Do not click on the link in this email (it will not work if you are using a non-google account) - instead, simply reply to the email.\nIn a few minutes you will receive a confirmation message: “You are now a member of the macromar group.”\nIf you have an issue joining, please email k.lotterhos &lt;at&gt; northeastern.edu"
+  },
+  {
+    "objectID": "membership.html#intending-to-collaborate",
+    "href": "membership.html#intending-to-collaborate",
+    "title": "How to join",
+    "section": "Intending to collaborate?",
+    "text": "Intending to collaborate?\nIf you intend to collaborate with the project by submitting data either now or sometime in the future, please fill out our Intent to Contribute a Dataset Form for each dataset you would like to contribute. Submitting this form will generate a MacroMar ID for your dataset. Filling out this form will help us gauge progress towards our goal of 5000 genomes from 100 species."
+  },
+  {
+    "objectID": "membership.html#apply-for-a-grant-or-attend-a-workshop",
+    "href": "membership.html#apply-for-a-grant-or-attend-a-workshop",
+    "title": "How to join",
+    "section": "Apply for a grant or attend a workshop",
+    "text": "Apply for a grant or attend a workshop\nWe have funds to support sequencing, working groups, and travel to workshops, as well as stipends for completing dataset submissions. Check out our Funding page for more information."
   },
   {
     "objectID": "Workshops.html",
@@ -91,46 +70,18 @@
     "text": "Reporting Mechanisms\nViolations of this Code of Conduct—including ethical breaches in MacroMar datasets, data misconduct, violation of data sharing agreements or embargoes, failure to recognize individual contributions, or workplace harassment at MacroMar workshops, working groups, or events—should be reported to a member of the MacroMar Investigator Team.\nAn Ethics Committee will be formed to investigate all formal complaints impartially. Confirmed violations will result in tiered disciplinary actions, which may include: (i) temporary suspension of access to network data repositories and funding channels, and (ii) permanent revocation of membership and notification sent to the member’s home institution compliance officer."
   },
   {
-    "objectID": "SequencingAwards.html",
-    "href": "SequencingAwards.html",
-    "title": "Sequencing Awards",
+    "objectID": "DMP.html",
+    "href": "DMP.html",
+    "title": "Data Management Plan",
     "section": "",
-    "text": "Award funds will be paid directly to the sequencing facility\nWhen disseminating results, please use the following acknowledgement statement: “This project is part of the MacroMar Project, which is funded by the Moore Foundation. Sequencing was completed at the Bauer Core Facility at Harvard University.”\nAwardees are expected to run the resulting .fastq files through the MacroMar Workflow on MarineOmics to produce a .vcf file and contribute that dataset to the MacroMar project"
+    "text": "Katie E. Lotterhos (Northeastern University): 0000-0001-7529-2771\nSam Bogan (Skidmore College) 0000-0003-2244-5169\nKatherine Silliman (NOAA): 0000-0001-5964-3965\nRachel Toczydlowski (USDA Forest Service): 0000-0002-8141-2036\nSerena Caplins (Northeastern University): 0000-0003-1311-6697\nAlexa Fredston (UC Santa Cruz): 0000-0002-5449-7054\nLibby Liggins (University of Auckland, New Zealand): 0000-0003-1143-2346\nSam Yeaman (University of Calgary, Canada) 0000-0002-1706-8699\nPierre De Wit (University of Gothenburg, Sweden): 0000-0003-4709-3438"
   },
   {
-    "objectID": "SequencingAwards.html#conditions-of-award",
-    "href": "SequencingAwards.html#conditions-of-award",
-    "title": "Sequencing Awards",
-    "section": "",
-    "text": "Award funds will be paid directly to the sequencing facility\nWhen disseminating results, please use the following acknowledgement statement: “This project is part of the MacroMar Project, which is funded by the Moore Foundation. Sequencing was completed at the Bauer Core Facility at Harvard University.”\nAwardees are expected to run the resulting .fastq files through the MacroMar Workflow on MarineOmics to produce a .vcf file and contribute that dataset to the MacroMar project"
-  },
-  {
-    "objectID": "SequencingAwards.html#macro-mar-projects-at-the-bauer-core-facility",
-    "href": "SequencingAwards.html#macro-mar-projects-at-the-bauer-core-facility",
-    "title": "Sequencing Awards",
-    "section": "Macro-Mar Projects at the Bauer Core Facility",
-    "text": "Macro-Mar Projects at the Bauer Core Facility\n\nObtain a PO\n\nCreate an account using the following link: https://bauercore.fas.harvard.edu/harvard-bauer-core-lockbox-lims\nCreate a PO for your portion of the project\n\nPO Generation Instructions\n\nNote: Failure to add the PDF of a valid PO will cause delays to your services\nThe PO must be in PDF format and include the company’s logo, company name, and all relevant PO details\nVendor name and address:\n\nHarvard University\nCentral Accounts Receivable\nP.O. Box 4999\nBoston, MA 02212-4999 USA\nThere are multiple Harvard University vendor accounts, make sure to select the correct one listed above\n\nScreenshots or other documents are not accepted in place of a PDF\nA valid PO must be uploaded to the system before any work can begin at our facilities.\nThe core is not responsible for any delays due to billing issues and will not begin work until they are resolved\n\nHOW DO INDICATE MACROMAR AND WHO WILL PAY FOR WHAT? If there are any other people you want copied, add that in the notes section above the estimate page during your initial request.\n\n\n\n\nPrepare your samples\n\nArray samples in full column format in a 96-well PCR plate (semi or full skirted) w/ a foil seal\n\nFOIL SEAL ORDER OR ASK LOTTERHOS TO MAIL YOU ONE\nWe recommend that you randomize your samples within and across plates, or at least avoid . This will help to reduce batch effects.\n\nSee the following links for additional requirements\n\nSubmission Details: https://bauercore.fas.harvard.edu/submitting-samples-illumina-sequencing\nDNA Prep Details https://bauercore.fas.harvard.edu/starting-material-dna 1. Harvard will normalize the DNA concentrations before library prep, so you do not have to normalize your samples before you send them. But please follow the prep details and make sure your DNA concentrations are not too high or too low.\n\nSubmit your submission request once you have the PO and sample details https://harb.my.site.com/hbc/s/\nOnce your submission has been “Reviewed” in the system, you can send samples to the core\n\n\n\nSend your samples\n\nDetails on shipping samples to the core https://bauercore.fas.harvard.edu/sample-drop. SHIPPING ADVICE 1. If you are in the Boston area, you can also drop them off following the instructions in the link.\n\n\n\nSample processing\n\nCore staff will “Accept” the request once samples have been successfully received\nCore staff will communicate through the (Laboratory Information Management System) LIMS throughout the process\nAfter sequencing is completed, you will receive data through the LIMS 1. You are responsible for downloading your data and storing it. If you need assistance or a data storage/processing solution, please contact k.lotterhos@northeastern.edu 2. An email with a copy will be sent to the MacroMar PI (Lotterhos) 3. If there are any other people you want copied, add that in the notes section above the estimate page during your initial request.\nData Analysis Includes:  https://bauercore.fas.harvard.edu/ngs-data-analysis\nNote that for international submission, export of data will go through an export control process which requires the PI Name, Institution Name, and confirmation that this is a Research Based Project\n\n\n\nAcknowledgements in publications and presentations\n\nAcknowledge the “MacroMar Project” and funding from the “Moore Foundation”\nAcknowledge the “The Bauer Core Facility at Harvard University.”\n\n\n\nSend general inquiries to: illumina_submission-list@lists.fas.harvard.edu"
-  },
-  {
-    "objectID": "index.html#an-open-science-ecosystem-for-enabling-macrogenomic-research-in-the-sea",
-    "href": "index.html#an-open-science-ecosystem-for-enabling-macrogenomic-research-in-the-sea",
-    "title": "",
-    "section": "An open science ecosystem for enabling macrogenomic research in the sea",
-    "text": "An open science ecosystem for enabling macrogenomic research in the sea\nMacrogenetics is an emerging field that seeks to combine population genomic datasets across species to study genetic variation and biodiversity.\nWe are an international network of scientists, students, and researchers working to make data FAIR (findable, accessible, interoperable, and reusable), while following best principles for working with local peoples and rare or endangered species."
-  },
-  {
-    "objectID": "index.html#our-goal-is-to-compile-5000-whole-genomes-from-100-species-by-2029.",
-    "href": "index.html#our-goal-is-to-compile-5000-whole-genomes-from-100-species-by-2029.",
-    "title": "",
-    "section": "Our goal is to compile 5,000 whole genomes from 100 species by 2029.",
-    "text": "Our goal is to compile 5,000 whole genomes from 100 species by 2029.\nThese data will serve as a resource for the community to address major unanswered questions in evolutionary biology using marine systems, which host many phyla not found on land yet remain understudied.\nWe are grateful to the Moore Foundation for funding our network activities"
-  },
-  {
-    "objectID": "index.html#partners",
-    "href": "index.html#partners",
-    "title": "",
-    "section": "Partners",
-    "text": "Partners\nRepAdapt\nMarineOmics\nAotearoa Genomic Data Repository"
+    "objectID": "DMP.html#authorship-policy",
+    "href": "DMP.html#authorship-policy",
+    "title": "Data Management Plan",
+    "section": "Authorship Policy",
+    "text": "Authorship Policy\nFor authorship and reporting guidelines we will refer participants to the Vancouver Recommendations: a set of recommendations for best practice and ethical standards in the conduct and reporting of published research. They recommend that all 4 of the following criteria are required for authorship: (i) Substantial contributions to the conception or design of the work; or the acquisition, analysis, or interpretation of data for the work; AND (ii) drafting the work or revising it critically for important intellectual content; AND (iii) final approval of the version to be published; AND (iv) agreement to be accountable for all aspects of the work in ensuring that questions related to the accuracy or integrity of any part of the work are appropriately investigated and resolved. They also recommend that when a large multi-­author group has conducted the work, the group ideally should decide who will be an author before the work is started."
   },
   {
     "objectID": "Funding.html",
@@ -189,39 +140,67 @@
     "text": "MacroMar Liasons and Research Pods\nIn the near future, we will accepting applications for MacroMar Liasons. Liasons will receive training in the MacroMar workflow and lead the formation of small research pods (3-6 members) who will work together to bring their data up to FAIR standards. Liasons will receive a stipend. Stay tuned for information on how to apply."
   },
   {
-    "objectID": "membership.html",
-    "href": "membership.html",
-    "title": "How to join",
+    "objectID": "index.html#an-open-science-ecosystem-for-enabling-macrogenomic-research-in-the-sea",
+    "href": "index.html#an-open-science-ecosystem-for-enabling-macrogenomic-research-in-the-sea",
+    "title": "",
+    "section": "An open science ecosystem for enabling macrogenomic research in the sea",
+    "text": "An open science ecosystem for enabling macrogenomic research in the sea\nMacrogenetics is an emerging field that seeks to combine population genomic datasets across species to study genetic variation and biodiversity.\nWe are an international network of scientists, students, and researchers working to make data FAIR (findable, accessible, interoperable, and reusable), while following best principles for working with local peoples and rare or endangered species."
+  },
+  {
+    "objectID": "index.html#our-goal-is-to-compile-5000-whole-genomes-from-100-species-by-2029.",
+    "href": "index.html#our-goal-is-to-compile-5000-whole-genomes-from-100-species-by-2029.",
+    "title": "",
+    "section": "Our goal is to compile 5,000 whole genomes from 100 species by 2029.",
+    "text": "Our goal is to compile 5,000 whole genomes from 100 species by 2029.\nThese data will serve as a resource for the community to address major unanswered questions in evolutionary biology using marine systems, which host many phyla not found on land yet remain understudied.\nWe are grateful to the Moore Foundation for funding our network activities"
+  },
+  {
+    "objectID": "index.html#partners",
+    "href": "index.html#partners",
+    "title": "",
+    "section": "Partners",
+    "text": "Partners\nRepAdapt\nMarineOmics\nAotearoa Genomic Data Repository"
+  },
+  {
+    "objectID": "SequencingGrants.html",
+    "href": "SequencingGrants.html",
+    "title": "Sequencing Grants",
     "section": "",
-    "text": "MacroMar membership application: Click here to join."
+    "text": "We will be giving many awards in the amount of ~$5,200 USD to support short-read, whole genome Illumina sequencing of your samples to ~8x coverage. We have competitive pricing from Harvard Bauer Core (Boston, USA) for sequencing.\nInvestigators will send their extracted DNA on standard SPS plates (96 well or 384 well) directly to Harvard Bauer Core. The pricing is better for samples organized on 384 well plates. As a ballpark estimate, the cost for whole genome sequencing of 60 samples of a 1Gb genome to at least 8x coverage is about $5200. Investigators who wish to sequence more samples or to higher coverage are welcome to do so through a cost-sharing mechanism.\nApplicants who are interested in sequencing more than one species should independent applications for each species."
   },
   {
-    "objectID": "membership.html#fill-out-this-form",
-    "href": "membership.html#fill-out-this-form",
-    "title": "How to join",
-    "section": "",
-    "text": "MacroMar membership application: Click here to join."
+    "objectID": "SequencingGrants.html#prepare-to-apply",
+    "href": "SequencingGrants.html#prepare-to-apply",
+    "title": "Sequencing Grants",
+    "section": "Prepare to apply",
+    "text": "Prepare to apply\n\nBefore you apply, please join MacroMar as a member.\nBefore you apply, please obtain a MacroMar ID for your dataset by filling out the Intent to Contribute a Dataset Form for each species.\nWe expect that you are prepared to submit your samples for whole genome sequencing within 3 months of submitting your application. When you apply, tissue samples should be in hand and the application will ask for the status of DNA extraction.\nIn the application you will be asked to submit sample metadata in our standardized spreadsheet format. Download the metadata template here.\nIf you will be shipping extracted DNA from overseas, you are responsible for the applicable permits. More information can be found here. Most biological materials will not need a permit, but protected species do. For example, you must obtain reciprocal CITES permits or certificates from both the exporting and importing countries before shipping extracted DNA from a protected species.\nIn the application you will be asked to submit a cost estimate in a standardized spreadsheet format. Download the cost estimate spreadsheet here and follow the instructions on the README.\n\nIf you would like to request more than $5200 USD from MacroMar, please follow the instructions in the spreadsheet to change the amount covered by MacroMar. Due to the submission system, costs will be covered on a unit basis (e.g., either library prep for X samples, or sequencing only, or some combination of library prep and sequencing). We will consider exceptions for research groups who do not currently have funding or have very large genomes and whose total exceeds $5200 USD for 60 samples to 8x coverage.\n\nThe application will ask, if you are awarded, that you agree to follow the MacroMar workflow for bioinformatics and share the resulting VCF files with the MacroMar project via our authorship and data usage policy"
   },
   {
-    "objectID": "membership.html#subscribe-to-the-listserv-via-email",
-    "href": "membership.html#subscribe-to-the-listserv-via-email",
-    "title": "How to join",
-    "section": "2) Subscribe to the listserv via Email",
-    "text": "2) Subscribe to the listserv via Email\n\nSend an email to macromar+subscribe@googlegroups.com from the email address you would like to receive updates in. Please note that if the email does not match the email in the membership form, you may be removed from the list.\nIn a few minutes you will receive a “Join Request from MacroMar”. Do not click on the link in this email (it will not work if you are using a non-google account) - instead, simply reply to the email.\nIn a few minutes you will receive a confirmation message: “You are now a member of the macromar group.”\nIf you have an issue joining, please email k.lotterhos &lt;at&gt; northeastern.edu"
+    "objectID": "SequencingGrants.html#how-to-apply",
+    "href": "SequencingGrants.html#how-to-apply",
+    "title": "Sequencing Grants",
+    "section": "How to apply",
+    "text": "How to apply\nPlease fill out this form to apply"
   },
   {
-    "objectID": "membership.html#intending-to-collaborate",
-    "href": "membership.html#intending-to-collaborate",
-    "title": "How to join",
-    "section": "Intending to collaborate?",
-    "text": "Intending to collaborate?\nIf you intend to collaborate with the project by submitting data either now or sometime in the future, please fill out our Intent to Contribute a Dataset Form for each dataset you would like to contribute. Submitting this form will generate a MacroMar ID for your dataset. Filling out this form will help us gauge progress towards our goal of 5000 genomes from 100 species."
+    "objectID": "SequencingGrants.html#upcoming-application-deadlines",
+    "href": "SequencingGrants.html#upcoming-application-deadlines",
+    "title": "Sequencing Grants",
+    "section": "Upcoming application deadlines",
+    "text": "Upcoming application deadlines\nWe plan to fund sequencing for about 3-5 species at each deadline.\n\nDecember 1, 2026\nFebruary 1, 2027\nMay 1, 2027\nAugust 1, 2027\n\nWe will announce more dates in 2027. In total we aim to support sequencing for about 25-30 species over the course of the project."
   },
   {
-    "objectID": "membership.html#apply-for-a-grant-or-attend-a-workshop",
-    "href": "membership.html#apply-for-a-grant-or-attend-a-workshop",
-    "title": "How to join",
-    "section": "Apply for a grant or attend a workshop",
-    "text": "Apply for a grant or attend a workshop\nWe have funds to support sequencing, working groups, and travel to workshops, as well as stipends for completing dataset submissions. Check out our Funding page for more information."
+    "objectID": "SequencingGrants.html#scoring-rubric",
+    "href": "SequencingGrants.html#scoring-rubric",
+    "title": "Sequencing Grants",
+    "section": "Scoring rubric",
+    "text": "Scoring rubric\nApplications will be scored according to the following rubric:\n\nState of sampling (highest score for samples in hand with extracted DNA)\nMetadata submitted with application (highest score for data submitted in our standardized format)\nSamples representative of: species range, population structure, and/or environmental gradients (highest score for all three)\nBiogeographic representation (highest score for samples from underrepresented habitats or geographic areas)\nReference exists (highest score for publicly available reference)\nTaxonomic/Phylogenetic representation (highest score for phyla underrepresented in MacroMar or RepAdapt)\nAbility to match funds or statement of financial need"
+  },
+  {
+    "objectID": "SequencingGrants.html#submission-instructions-if-you-are-awarded",
+    "href": "SequencingGrants.html#submission-instructions-if-you-are-awarded",
+    "title": "Sequencing Grants",
+    "section": "Submission instructions (if you are awarded)",
+    "text": "Submission instructions (if you are awarded)\nWe are in the process of updating the award conditions and submission instructions. Check back soon for more information."
   },
   {
     "objectID": "SubmitData.html",
@@ -242,28 +221,49 @@
     "href": "SubmitData.html#data-requirements",
     "title": "Submit Data",
     "section": "Data requirements",
-    "text": "Data requirements\n\nSamples collected directly from the wild\nShort-read whole genome sequencing (Illumina or AVITI)\n\nHigh coverage data preferred 8x minimum coverage per individual\nPool-seq data accepted for species with large genomes or that are hard to sample and sequencing individually (like plankton). Recommended 40 individuals per pool with at least 80x coverage per pool for diploids.\nFor individuals with large genomes (&gt;3Gb), Exome capture data is acceptable\nLow-coverage data (&lt;5x coverage per individual) not accepted\n\nMultiple individuals.\n\nFor high coverage data: We aim to have at least 50 individuals per species, but datasets of ~100 individuals spanning a phenotypic or environmental gradient, or that are representative of the species range or population structure would be more ideal. We will also accept datasets with fewer individuals, such as for rare or endangered species, or hard-to-obtain samples.\nFor pool seq data: We recommend at least 40 individuals per pool and 80x coverage per pool, with at least 20 pools.\nPlease note that we are interested in all species, regardless of whether there is strong population structure or local adaptation.\n\nA reference genome exists\nSufficient metadata for each sample, including the latitude, longitude, depth, and time of sampling.\n\nIdeally, historical environmental data is also available for each sample (one of the goals of this project will be to determine how to summarize this data in a standardized way). Currently we do not have specific requirements for the resolution or minimum time span of historical environmental data, but please be prepared to list sources of relevant environmental data when you submit your samples.\n\nOptional: trait data associated with each sample"
+    "text": "Data requirements\n\nSamples collected directly from the wild\nShort-read whole genome sequencing (Illumina or AVITI)\n\nHigh coverage data with 12x minimum coverage per individual. 15x is better.\n\nWhy 12x? This read depth is sufficient for calling heterozygous sites.. Experts have advised us that the heterozygote dropout rate starts to rise below this threshold.\n\nPool-seq data accepted for species with large genomes or that are hard to sample and sequencing individually (like plankton). Minimum requirements are 40 individuals per pool with at least 80x coverage per pool for diploids.\nFor individuals with large genomes (&gt;3Gb), Exome capture data is acceptable\nLow-coverage data (&lt;5x coverage per individual) not accepted\n\nMultiple individuals.\n\nFor high coverage data: We aim to have at least 50 individuals per species, but datasets of ~100 individuals spanning a phenotypic or environmental gradient, or that are representative of the species range or population structure would be more ideal. We will also accept datasets with fewer individuals, such as for rare or endangered species, or hard-to-obtain samples.\nFor pool seq data: We recommend at least 40 individuals per pool and 80x coverage per pool, with at least 20 pools.\nPlease note that we are interested in all species, regardless of whether there is strong population structure or local adaptation.\n\nA reference genome exists\nSufficient metadata for each sample, including the latitude, longitude, depth, and time of sampling.\n\nIdeally, historical environmental data is also available for each sample (one of the goals of this project will be to determine how to summarize this data in a standardized way). Currently we do not have specific requirements for the resolution or minimum time span of historical environmental data, but please be prepared to list sources of relevant environmental data when you submit your samples.\n\nOptional: trait data associated with each sample"
   },
   {
     "objectID": "SubmitData.html#data-submission-workflow",
     "href": "SubmitData.html#data-submission-workflow",
     "title": "Submit Data",
     "section": "Data submission workflow",
-    "text": "Data submission workflow\nGet started by filling out our form: Intent to Contribute a Dataset\nWe are in the process of publishing our data submission workflow on MarineOmics, a dynamic website for sharing protocols and best principles for marine genomics research."
+    "text": "Data submission workflow\nGet started by filling out our form: Intent to Contribute a Dataset. Note that you do not have to have the samples or sequences in hand to fill out this form; by filling out this form you will be included in communications about the datasets and become eligible for sequencing awards.\nWe are in the process of publishing our data submission workflow on MarineOmics, a dynamic website for sharing protocols and best principles for marine genomics research."
   },
   {
-    "objectID": "DMP.html",
-    "href": "DMP.html",
-    "title": "Data Management Plan",
+    "objectID": "SequencingAwards.html",
+    "href": "SequencingAwards.html",
+    "title": "Sequencing Awards",
     "section": "",
-    "text": "Katie E. Lotterhos (Northeastern University): 0000-0001-7529-2771\nSam Bogan (Skidmore College) 0000-0003-2244-5169\nKatherine Silliman (NOAA): 0000-0001-5964-3965\nRachel Toczydlowski (USDA Forest Service): 0000-0002-8141-2036\nSerena Caplins (Northeastern University): 0000-0003-1311-6697\nAlexa Fredston (UC Santa Cruz): 0000-0002-5449-7054\nLibby Liggins (University of Auckland, New Zealand): 0000-0003-1143-2346\nSam Yeaman (University of Calgary, Canada) 0000-0002-1706-8699\nPierre De Wit (University of Gothenburg, Sweden): 0000-0003-4709-3438"
+    "text": "Award funds will be paid directly to the sequencing facility\nWhen disseminating results, please use the following acknowledgement statement: “This project is part of the MacroMar Project, which is funded by the Moore Foundation. Sequencing was completed at the Bauer Core Facility at Harvard University.”\nAwardees are expected to run the resulting .fastq files through the MacroMar Workflow on MarineOmics to produce a .vcf file and contribute that dataset to the MacroMar project"
   },
   {
-    "objectID": "DMP.html#authorship-policy",
-    "href": "DMP.html#authorship-policy",
-    "title": "Data Management Plan",
-    "section": "Authorship Policy",
-    "text": "Authorship Policy\nFor authorship and reporting guidelines we will refer participants to the Vancouver Recommendations: a set of recommendations for best practice and ethical standards in the conduct and reporting of published research. They recommend that all 4 of the following criteria are required for authorship: (i) Substantial contributions to the conception or design of the work; or the acquisition, analysis, or interpretation of data for the work; AND (ii) drafting the work or revising it critically for important intellectual content; AND (iii) final approval of the version to be published; AND (iv) agreement to be accountable for all aspects of the work in ensuring that questions related to the accuracy or integrity of any part of the work are appropriately investigated and resolved. They also recommend that when a large multi-­author group has conducted the work, the group ideally should decide who will be an author before the work is started."
+    "objectID": "SequencingAwards.html#conditions-of-award",
+    "href": "SequencingAwards.html#conditions-of-award",
+    "title": "Sequencing Awards",
+    "section": "",
+    "text": "Award funds will be paid directly to the sequencing facility\nWhen disseminating results, please use the following acknowledgement statement: “This project is part of the MacroMar Project, which is funded by the Moore Foundation. Sequencing was completed at the Bauer Core Facility at Harvard University.”\nAwardees are expected to run the resulting .fastq files through the MacroMar Workflow on MarineOmics to produce a .vcf file and contribute that dataset to the MacroMar project"
+  },
+  {
+    "objectID": "SequencingAwards.html#macromar-projects-at-the-bauer-core-facility",
+    "href": "SequencingAwards.html#macromar-projects-at-the-bauer-core-facility",
+    "title": "Sequencing Awards",
+    "section": "MacroMar Projects at the Bauer Core Facility",
+    "text": "MacroMar Projects at the Bauer Core Facility\n\nObtain a Quote\n\nAfter receiving the award from MacroMar, we will share your cost estimate with Harvard Bauer Core, who will provide you with two quotes:\n\nA quote for the PI portion (if costs exceed $5200) that you can use to get a purchase order (PO) from your institution\nA quote for the MacroMar portion\n\n\n\n\nObtain a PO and upload it to the system\n\nCreate an account using the following link: https://bauercore.fas.harvard.edu/harvard-bauer-core-lockbox-lims\n\nUnless one of the other options makes sense, select: “Bauer Core Lockbox LIMS External User”\n\nIf your project has the PI covering some costs, obtain a PO from your institution for your amount.\n\nPO Generation Instructions\n\nNote: Failure to add the PDF of a valid PO will cause delays to your services\nThe PO must be in PDF format and include the company’s logo, company name, and all relevant PO details\nVendor name and address:\n\nHarvard University\nCentral Accounts Receivable\nP.O. Box 4999\nBoston, MA 02212-4999 USA\nThere are multiple Harvard University vendor accounts, make sure to select the correct one listed above\n\nScreenshots or other documents are not accepted in place of a PDF\nA valid PO must be uploaded to the system before any work can begin at our facilities.\nThe core is not responsible for any delays due to billing issues and will not begin work until they are resolved\nMake sure to add “MacroMar Project” on the PO in a “notes” section. If there are any other people you want copied, add that in the notes section above the estimate page during your initial request.\n\nCreate a single PDF with your own PO, the MacroMar quote from the first step, and a copy of the spreadsheet estimate turned in with your award. You will upload this to the system in the next step.\n\n\n\n\nPrepare your samples\n\nArray samples in full column format in a 96-well PCR plate (semi or full skirted) w/ a foil seal\n\nRecommended foil plate sealers are VWR #89049-034. If you would like us to mail you some sealers, email k.lotterhos@northeastern.edu\nWe recommend that you randomize your samples within and across plates, or at least avoid . This will help to reduce batch effects.\n\nSee the following links for additional requirements\n\nSubmission Details: https://bauercore.fas.harvard.edu/submitting-samples-illumina-sequencing\nDNA Prep Details https://bauercore.fas.harvard.edu/starting-material-dna 1. Harvard will normalize the DNA concentrations before library prep, so you do not have to normalize your samples before you send them. But please follow the prep details and make sure your DNA concentrations are not too high or too low.\n\nSubmit your submission request once you have the PO and sample details https://harb.my.site.com/hbc/s/\nOnce your submission has been “Reviewed” in the system, you can send samples to the core\n\n\n\nSend your samples\n\nShip your samples to the core at this address https://bauercore.fas.harvard.edu/sample-drop.\n\nIf you are in the Boston area, you can also drop them off following the instructions in the link.\n\nSend an email to nicoleramirez@fas.harvard.edu and illumina_submission-list@lists.fas.harvard.edu to let them know the samples are shipping. Please include “MacroMar Project” on all communications.\n\n\n\nSample processing\n\nCore staff will “Accept” the request once samples have been successfully received\nCore staff will communicate through the (Laboratory Information Management System) LIMS throughout the process\nAfter sequencing is completed, you will receive data through the LIMS 1. You are responsible for downloading your data and storing it. If you need assistance or a data storage/processing solution, please contact k.lotterhos@northeastern.edu 2. An email with a copy will be sent to the MacroMar PI (Lotterhos) 3. If there are any other people you want copied, add that in the notes section above the estimate page during your initial request.\nData Analysis Includes:  https://bauercore.fas.harvard.edu/ngs-data-analysis\nNote that for international submission, export of data will go through an export control process which requires the PI Name, Institution Name, and confirmation that this is a Research Based Project\n\n\n\nAcknowledgements in publications and presentations\n\nAcknowledge the “MacroMar Project” and funding from the “Moore Foundation”\nAcknowledge the “The Bauer Core Facility at Harvard University.”\n\n\n\nSend general inquiries to: illumina_submission-list@lists.fas.harvard.edu"
+  },
+  {
+    "objectID": "PIs.html",
+    "href": "PIs.html",
+    "title": "Principal Investigators",
+    "section": "",
+    "text": "Katie E. Lotterhos (Principal Investigator)\nNortheastern University Marine Science Center, USA\nDirector, Center for Marine Ecological Genomics\n\n\n\n\n Sam Bogan\nSkidmore College, USA\nCo-Founder, MarineOmics\n\n\n\n\n\nSerena Caplins\nNortheastern University\nResearch Computing\n\n\n\n\n\n\n\n\nPierre De Wit\nUniversity of Gothenberg, Sweden\nCenter for Marine Evolutionary Biology\n\n\n\n\n\nAlexa Fredston\nUniversity of California, Santa Cruz\nOpen Science Advocate\n\n\n\n\n\nLibby Liggins\nUniversity of Auckland, New Zealand\nGEOME\n\n\n\n\n\n\n\n\nKatherine Silliman\nNational Oceanic and Atmospheric Administration, USA\nCo-Founder, MarineOmics\n\n\n\n\n\nRachel Toczydlowski\nUSDA Forest Service, USA\nGEOME\n\n\n\n\n\nSam Yeaman\nUniversity of Calgary, Canada\nRepAdapt"
+  },
+  {
+    "objectID": "WorkingGroups.html",
+    "href": "WorkingGroups.html",
+    "title": "Working Groups",
+    "section": "",
+    "text": "We are in the process of soliciting and forming working groups. See our Grants page for updates on how to apply for funds to support a working group.\nCheck back soon for more information"
   },
   {
     "objectID": "about.html",
