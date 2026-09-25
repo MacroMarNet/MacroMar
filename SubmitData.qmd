@@ -5,7 +5,6 @@ format: html
 
 ## Goal
 
-
 The goal of this project is to make seascape genomic data and associated metadata FAIR (findable, accessible, interoperable, and reusable). To maintain interoperability, we require all samples to use short-read sequencing technology, the same bioinformatics pipeline, and the same metadata format.
 
 Seascape genomics is the study of how spatial and environmental factors, such as ocean currents, barriers, and environmental gradients shape the genetic makeup and adaptation of marine species ([Riginos et al 2016](https://doi.org/10.1093/cz/zow067)). Thus, seascape genomic data consists of population genomic data from wild samples, geospatial sampling locations, the date of sampling, and variables that describe the environmental context.
@@ -14,8 +13,9 @@ Seascape genomics is the study of how spatial and environmental factors, such as
 
 -   [ ] Samples collected directly from the wild
 -   [ ] Short-read whole genome sequencing (Illumina or AVITI)
-    -   High coverage data preferred 8x minimum coverage per individual
-    -   Pool-seq data accepted for species with large genomes or that are hard to sample and sequencing individually (like plankton). Recommended 40 individuals per pool with at least 80x coverage per pool for diploids.
+    -   High coverage data with 12x minimum coverage per individual. 15x is better.
+        -   Why 12x? This read depth is sufficient for calling heterozygous sites.. Experts have advised us that the heterozygote dropout rate starts to rise below this threshold.
+    -   Pool-seq data accepted for species with large genomes or that are hard to sample and sequencing individually (like plankton). Minimum requirements are 40 individuals per pool with at least 80x coverage per pool for diploids.
     -   For individuals with large genomes (\>3Gb), Exome capture data is acceptable
     -   Low-coverage data (\<5x coverage per individual) not accepted
 -   [ ] Multiple individuals.
@@ -27,10 +27,8 @@ Seascape genomics is the study of how spatial and environmental factors, such as
     -   Ideally, historical environmental data is also available for each sample (one of the goals of this project will be to determine how to summarize this data in a standardized way). Currently we do not have specific requirements for the resolution or minimum time span of historical environmental data, but please be prepared to list sources of relevant environmental data when you submit your samples.
 -   [ ] Optional: trait data associated with each sample
 
-
 ## Data submission workflow
 
-Get started by filling out our form: [Intent to Contribute a Dataset](https://docs.google.com/forms/d/1tMNCGIIM151AKQhBvhLzb2X552FGeV1aLAysfBg6deA/edit)
+Get started by filling out our form: [Intent to Contribute a Dataset](https://docs.google.com/forms/d/1tMNCGIIM151AKQhBvhLzb2X552FGeV1aLAysfBg6deA/edit). Note that you do not have to have the samples or sequences in hand to fill out this form; by filling out this form you will be included in communications about the datasets and become eligible for sequencing awards.
 
 We are in the process of publishing our data submission workflow on [MarineOmics](https://marineomics.github.io/), a dynamic website for sharing protocols and best principles for marine genomics research.
-
