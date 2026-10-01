@@ -10,7 +10,7 @@ title: "About MacroMar"
 
 ## Aim 1
 
-Our first Aim is to build community, coordinate efforts, and establish standards via Regional Foundation Workshop. To coordinate efforts, we will hold a series of virtual meetings leading up to the in person workshops with key folks from the participating networks. The goal of the workshops will be to form working groups that will tackle key topics, such as but not limited to: Indigenous genomic standards/metadata, data interoperability, marine environmental data, AI-term matching, polyploid data, and population genomics of plankton.
+Our first Aim is to build community, coordinate efforts, and establish standards via Regional Foundation Workshops. To coordinate efforts, we will hold a series of virtual meetings leading up to the in person workshops with key folks from the participating networks. The goal of the workshops will be to form working groups that will tackle key topics, such as but not limited to: Indigenous genomic standards/metadata, data interoperability, marine environmental data, AI-term matching, polyploid data, and population genomics of plankton.
 
 ## Aim 2
 

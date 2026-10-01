@@ -14,8 +14,8 @@ format: html
 ### Obtain a Quote
 
 1.  After receiving the award from MacroMar, we will share your cost estimate with Harvard Bauer Core, who will provide you with two quotes:
-    1.  A quote for the PI portion (if costs exceed \$5200) that you can use to get a purchase order (PO) from your institution
-    2.  A quote for the MacroMar portion
+    1.  **PI quote:** A quote for the PI portion (if costs exceed \$5200) that you can use to get a purchase order (PO) from your institution.
+    2.  **MacroMar quote:** A quote for the MacroMar portion.
 
 ### Obtain a PO and upload it to the system
 
@@ -35,7 +35,11 @@ format: html
         5.  A valid PO must be uploaded to the system before any work can begin at our facilities.
         6.  The core is not responsible for any delays due to billing issues and will not begin work until they are resolved
         7.  Make sure to add "MacroMar Project" on the PO in a "notes" section. If there are any other people you want copied, add that in the notes section above the estimate page during your initial request.
-    2.  **Create a single PDF with your own PO, the MacroMar quote from the first step, and a copy of the spreadsheet estimate turned in with your award. You will upload this to the system in the next step.**
+    2.  **Create a single PDF with:**
+        1.  **the PI PO**
+        2.  **the MacroMar quote from the first step**
+        3.  **a copy of the spreadsheet estimate turned in with your award.**
+    3.  **You will upload the PDF from step 2 to the system in the next step.**
 
 ### Prepare your samples
 
