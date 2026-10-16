@@ -15,7 +15,7 @@ format: html
 
 -   In a few minutes you will receive a confirmation message: "You are now a member of the macromar group."
 
--   If you have an issue joining, please email `k.lotterhos <at> northeastern.edu`
+-   If you have an issue joining from an institutional account, please email `k.lotterhos <at> northeastern.edu`. We will send you a direct invitation.
 
 ## Intending to collaborate?
 
