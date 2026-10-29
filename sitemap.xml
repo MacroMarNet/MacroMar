@@ -1,51 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://MacroMarNet.github.io/MacroMar/membership.html</loc>
-    <lastmod>2026-10-16T18:14:37.104Z</lastmod>
-  </url>
-  <url>
-    <loc>https://MacroMarNet.github.io/MacroMar/Workshops.html</loc>
-    <lastmod>2026-10-16T18:14:37.073Z</lastmod>
-  </url>
-  <url>
-    <loc>https://MacroMarNet.github.io/MacroMar/SoC.html</loc>
-    <lastmod>2026-10-16T18:14:37.073Z</lastmod>
-  </url>
-  <url>
-    <loc>https://MacroMarNet.github.io/MacroMar/DMP.html</loc>
-    <lastmod>2026-10-16T18:14:37.073Z</lastmod>
-  </url>
-  <url>
-    <loc>https://MacroMarNet.github.io/MacroMar/Funding.html</loc>
-    <lastmod>2026-10-16T18:14:37.073Z</lastmod>
-  </url>
-  <url>
-    <loc>https://MacroMarNet.github.io/MacroMar/index.html</loc>
-    <lastmod>2026-10-16T18:14:37.104Z</lastmod>
-  </url>
-  <url>
-    <loc>https://MacroMarNet.github.io/MacroMar/SequencingGrants.html</loc>
-    <lastmod>2026-10-16T18:14:37.073Z</lastmod>
-  </url>
-  <url>
-    <loc>https://MacroMarNet.github.io/MacroMar/SubmitData.html</loc>
-    <lastmod>2026-10-16T18:14:37.073Z</lastmod>
-  </url>
-  <url>
     <loc>https://MacroMarNet.github.io/MacroMar/SequencingAwards.html</loc>
-    <lastmod>2026-10-16T18:14:37.073Z</lastmod>
-  </url>
-  <url>
-    <loc>https://MacroMarNet.github.io/MacroMar/PIs.html</loc>
-    <lastmod>2026-10-16T18:14:37.073Z</lastmod>
-  </url>
-  <url>
-    <loc>https://MacroMarNet.github.io/MacroMar/WorkingGroups.html</loc>
-    <lastmod>2026-10-16T18:14:37.073Z</lastmod>
+    <lastmod>2026-10-29T11:13:24.545Z</lastmod>
   </url>
   <url>
     <loc>https://MacroMarNet.github.io/MacroMar/about.html</loc>
-    <lastmod>2026-10-16T18:14:37.082Z</lastmod>
+    <lastmod>2026-10-29T11:13:24.554Z</lastmod>
+  </url>
+  <url>
+    <loc>https://MacroMarNet.github.io/MacroMar/SoC.html</loc>
+    <lastmod>2026-10-29T11:13:24.545Z</lastmod>
+  </url>
+  <url>
+    <loc>https://MacroMarNet.github.io/MacroMar/DMP.html</loc>
+    <lastmod>2026-10-29T11:13:24.545Z</lastmod>
+  </url>
+  <url>
+    <loc>https://MacroMarNet.github.io/MacroMar/Workshops.html</loc>
+    <lastmod>2026-10-29T11:13:24.545Z</lastmod>
+  </url>
+  <url>
+    <loc>https://MacroMarNet.github.io/MacroMar/SequencingGrants.html</loc>
+    <lastmod>2026-10-29T11:13:24.545Z</lastmod>
+  </url>
+  <url>
+    <loc>https://MacroMarNet.github.io/MacroMar/WorkingGroups.html</loc>
+    <lastmod>2026-10-29T11:13:24.545Z</lastmod>
+  </url>
+  <url>
+    <loc>https://MacroMarNet.github.io/MacroMar/Funding.html</loc>
+    <lastmod>2026-10-29T11:13:24.545Z</lastmod>
+  </url>
+  <url>
+    <loc>https://MacroMarNet.github.io/MacroMar/index.html</loc>
+    <lastmod>2026-10-29T11:13:24.577Z</lastmod>
+  </url>
+  <url>
+    <loc>https://MacroMarNet.github.io/MacroMar/membership.html</loc>
+    <lastmod>2026-10-29T11:13:24.577Z</lastmod>
+  </url>
+  <url>
+    <loc>https://MacroMarNet.github.io/MacroMar/SubmitData.html</loc>
+    <lastmod>2026-10-29T11:13:24.545Z</lastmod>
+  </url>
+  <url>
+    <loc>https://MacroMarNet.github.io/MacroMar/PIs.html</loc>
+    <lastmod>2026-10-29T11:13:24.545Z</lastmod>
   </url>
 </urlset>
