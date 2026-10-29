@@ -22,7 +22,7 @@ We are grateful to the Moore Foundation for funding our network activities
 
 ## Partners
 
-[RepAdapt](https://yeamanlab.weebly.com/repadapt.html)
+[RepAdapt](https://repadapt.github.io)
 
 [MarineOmics](https://marineomics.github.io/)
 
