@@ -20,11 +20,11 @@ We are grateful to the Moore Foundation for funding our network activities
 
 [![](https://upload.wikimedia.org/wikipedia/commons/a/a2/Moore_Foundation_Logo.jpg){width="300" height="100"}](https://www.moore.org/)
 
-## Partners
+# Partners
 
-[RepAdapt](https://yeamanlab.weebly.com/repadapt.html)
+## [RepAdapt](https://yeamanlab.weebly.com/repadapt.html)
 
-[MarineOmics](https://marineomics.github.io/)
+## [MarineOmics](https://marineomics.github.io/)
 
 [![](img/ga.png)](https://www.genomics-aotearoa.org.nz/)
 
@@ -35,5 +35,7 @@ We are grateful to the Moore Foundation for funding our network activities
 [![](img/CMEB.png)](https://www.gu.se/en/cemeb-marine-evolutionary-biology)
 
 [![](https://antarcticdesign.wordpress.com/wp-content/uploads/2011/09/gsc-highres.png)](https://www.gensc.org//)
+
+[![](img/OGL_CircleLogo.png){width="300"}](https://ogl.northeastern.edu/)
 
 </center>

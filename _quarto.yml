@@ -30,7 +30,7 @@ website:
         menu: 
           - text: "Working groups"
             file: WorkingGroups.qmd
-          - text: "Upcoming Workshops"
+          - text: "Workshops"
             file: Workshops.qmd
       - text: "Grants"
         menu: 
