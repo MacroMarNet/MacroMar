@@ -56,11 +56,18 @@
     "text": "Now accepting applications for a Postdoctoral Research Associate\nApply now\nWe are grateful to the Moore Foundation for funding our network activities"
   },
   {
-    "objectID": "index.html#partners",
-    "href": "index.html#partners",
+    "objectID": "index.html#repadapt",
+    "href": "index.html#repadapt",
     "title": "",
-    "section": "Partners",
-    "text": "Partners\nRepAdapt\nMarineOmics"
+    "section": "RepAdapt",
+    "text": "RepAdapt"
+  },
+  {
+    "objectID": "index.html#marineomics",
+    "href": "index.html#marineomics",
+    "title": "",
+    "section": "MarineOmics",
+    "text": "MarineOmics"
   },
   {
     "objectID": "PIs.html",
@@ -114,9 +121,23 @@
   {
     "objectID": "Workshops.html",
     "href": "Workshops.html",
-    "title": "Upcoming Workshops",
+    "title": "Information Sessions and Workshops",
     "section": "",
-    "text": "We are in the process of planning workshops that will take place in 2027. Stay tuned!"
+    "text": "We are in the process of planning 1-hour virtual information sessions in December 2026 through February 2027."
+  },
+  {
+    "objectID": "Workshops.html#upcoming-virtual-information-sessions",
+    "href": "Workshops.html#upcoming-virtual-information-sessions",
+    "title": "Information Sessions and Workshops",
+    "section": "",
+    "text": "We are in the process of planning 1-hour virtual information sessions in December 2026 through February 2027."
+  },
+  {
+    "objectID": "Workshops.html#upcoming-workshops",
+    "href": "Workshops.html#upcoming-workshops",
+    "title": "Information Sessions and Workshops",
+    "section": "Upcoming Workshops",
+    "text": "Upcoming Workshops\nWe are in the process of planning more workshops that will take place in 2027. Stay tuned for updates.\nApply for a travel and housing stipend: We have funds to support your travel to the workshop and 1 night of housing. Information about how to apply will be available soon.\n\nConfirmed: 1-day workshop before Evolution Meeting, June 2027 in San Juan, Puerto Rico\n\nConference: https://www.evolutionmeetings.org/\nWhen: June 25 2027 (the conference starts that day in the evening)\nWhere: San Juan, Puerto Rico\nHow to register: When you register for the meeting, select “MacroMar” workshop\n\n\n\nPlanned: Workshop before the European Society of Evolutionary Biologists Meeting, August 2027, Gothenburg, Sweden\n\nConference: https://eseb2027.org/\nWhen: August 15-16 2027 (before the conference starts)\nWhere: Gothenburg, Sweden / Hybrid"
   },
   {
     "objectID": "WorkingGroups.html",
