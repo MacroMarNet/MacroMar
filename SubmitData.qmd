@@ -17,7 +17,7 @@ Seascape genomics is the study of how spatial and environmental factors, such as
         -   Why 12x? This read depth is sufficient for calling heterozygous sites.. Experts have advised us that the heterozygote dropout rate starts to rise below this threshold.
     -   Pool-seq data accepted for species with large genomes or that are hard to sample and sequencing individually (like plankton). Minimum requirements are 40 individuals per pool with at least 80x coverage per pool for diploids.
     -   For individuals with large genomes (\>3Gb), Exome capture data is acceptable
-    -   Low-coverage data (\<5x coverage per individual) not accepted
+    -   Low-coverage data (\<12x coverage per individual) not accepted, apply to sequencing grant for deeper coverage
 -   [ ] Multiple individuals.
     -   **For high coverage data:** We aim to have at least 50 individuals per species, but datasets of \~100 individuals spanning a phenotypic or environmental gradient, or that are representative of the species range or population structure would be more ideal. We will also accept datasets with fewer individuals, such as for rare or endangered species, or hard-to-obtain samples.
     -   **For pool seq data**: We recommend at least 40 individuals per pool and 80x coverage per pool, with at least 20 pools.
